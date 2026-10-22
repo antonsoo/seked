@@ -81,6 +81,11 @@ for (const [name, engine] of [
       await page.waitForFunction(
         () => document.querySelector("#offline").textContent === "Reading & source saved offline",
       );
+      await page.locator(".skip").focus();
+      assert.equal(await page.locator(".skip").evaluate((el) => getComputedStyle(el).opacity), "1");
+      await page.keyboard.press("Enter");
+      await page.locator("#reader-title").focus();
+      assert.equal(await page.locator(".skip").evaluate((el) => getComputedStyle(el).opacity), "0");
       // First source visit has not predecoded the lazy image.
       await page.locator("#read-literal").click();
       await page.locator("#scan-window img").evaluate((img) => img.decode());
