@@ -93,6 +93,11 @@ A clean source extraction with Node 24.22.0 ran `npm ci`, all checks and the
 independent oracle. Its 22 files total 4,734,661 bytes and match the reviewed
 working build byte-for-byte. No hosted result is inferred from that local build.
 
-The public-file receipt and public-browser receipt are added only after
-publication. CI workflow definitions are included; this review reports local
-execution, not a successful hosted Actions run.
+[publication.json](publication.json) verifies all 22 canonical public files and
+the directory entry against the clean build. [hosted.json](hosted.json) repeats
+the full reading, source, export and offline journeys on the public site in
+both browsers at both widths. Its saved HTML matches the retained example.
+A fresh clone of the public repository with `npm ci` and `npm run build`
+reproduces the same complete artifact. CI workflow definitions are included;
+this review reports executed local and public browser checks, not a successful
+hosted Actions run.
