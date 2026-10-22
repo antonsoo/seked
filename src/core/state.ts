@@ -3,6 +3,7 @@ import { exact, fraction, parseDimension } from "./fraction";
 import type { Dimensions, Section } from "./geometry";
 export interface State {
   problem: ProblemId;
+  rows: number;
   step: number;
   reading: Reading;
   lab: Dimensions;
@@ -11,6 +12,7 @@ export interface State {
 export function initial(): State {
   return {
     problem: "56",
+    rows: 0,
     step: 0,
     reading: "written",
     lab: { base: fraction(12), height: fraction(8) },
@@ -22,6 +24,8 @@ export function readState(search: string): State {
     state = initial();
   const id = p.get("p");
   if (problemIds.includes(id as ProblemId)) state.problem = id as ProblemId;
+  const marks = p.get("rows");
+  if (marks !== null && /^(?:[0-9]|1[0-5])$/.test(marks)) state.rows = Number(marks);
   const step = p.get("step");
   if (step !== null && /^[0-4]$/.test(step)) state.step = Number(step);
   if (p.get("reading") === "working") state.reading = "working";
@@ -32,7 +36,7 @@ export function readState(search: string): State {
   return state;
 }
 export function writeState(state: State): string {
-  return `?p=${state.problem}&step=${state.step}&reading=${state.reading}&base=${encodeURIComponent(exact(state.lab.base))}&height=${encodeURIComponent(exact(state.lab.height))}&section=${state.section}`;
+  return `?p=${state.problem}&rows=${state.rows}&step=${state.step}&reading=${state.reading}&base=${encodeURIComponent(exact(state.lab.base))}&height=${encodeURIComponent(exact(state.lab.height))}&section=${state.section}`;
 }
 export function lessonDimensions(state: State): Dimensions {
   return dimensionsFor(state.problem, state.reading);

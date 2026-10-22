@@ -95,7 +95,7 @@ export const problems: Problem[] = [
       },
       {
         title: "Use the same multiplier on 140",
-        text: "The result is 93 1/3, not 93 2/3. A check using half the base gives the same original seked.",
+        text: "The result is exactly 93 1/3. A check using half the base gives the same original seked.",
         equation: "140 × 2/3 = 280/3 = 93 1/3",
         emphasis: "height",
       },
@@ -335,4 +335,31 @@ export function sourceLabel(page: number): string {
   return p
     ? `Problem ${p.id === "59" ? "59 & 59B" : p.id} · ${p.literal === page ? "literal translation" : `transcription, plate ${78 + (page - 204) / 2}`}`
     : "Printed evidence";
+}
+
+/** Positions are reading guides within the complete edition scans, not measurements of the papyrus. */
+export function sourceFocus(page: number | "peet", id: ProblemId): { x: number; y: number } {
+  if (page === "peet") return { x: 0.5, y: 0.4 };
+  if (page === 36 || page === 37) {
+    if (id === "59B" && page === 37) return { x: 0.43, y: 0.56 };
+    const y = [0.17, 0.27, 0.39, 0.52, 0.65][getProblem(id).register - 1] ?? 0.43;
+    return { x: page === 36 ? 0.35 : 0.77, y };
+  }
+  return { x: 0.5, y: 0.43 };
+}
+export function sourceCaption(page: number | "peet", id: ProblemId): string {
+  if (page === "peet")
+    return "Peet (1923), p. 100, from the 1970 facsimile reprint: compare the printed corrections in problems 59 and 59B.";
+  if (page === 36 || page === 37) {
+    const place =
+      id === "59B"
+        ? "Problem 59B is written separately in the left portion of photograph XXII. Photograph XXI supplies the adjoining exercises."
+        : `Problem ${id} occupies register ${getProblem(id).register}, counted from the top: its beginning is at the left of photograph XXI, and its continuation at the right of XXII. The photographs overlap.`;
+    return `${sourceLabel(page)}. ${place} The printed problem numbers were added by editors.`;
+  }
+  return `${sourceLabel(page)}. ${
+    page % 2 === 0
+      ? "Copied hieratic above, hieroglyphic transcription below. The edition’s transliteration runs right to left, with letters and digits reversed. Compare the facing literal translation for left-to-right reading."
+      : "A dot above the first digit denotes a unit fraction in this edition; a double dot above 3 denotes two thirds. The notes explain proposed corrections."
+  }`;
 }

@@ -18,17 +18,21 @@ export function sectionDrawing(
     s = slope(dim),
     run = kind === "face" ? mixed(s.halfBase) : number(g.run);
   const { left: l, right: r, apex: a, center: c } = g;
-  return `<svg class="section-svg" viewBox="0 0 500 380" role="img" aria-labelledby="${id}-title ${id}-desc" data-kind="${kind}" data-scale="${g.scale}"><title id="${id}-title">${kind === "face" ? "Face section" : "Corner section"}: base ${mixed(dim.base)}, height ${mixed(dim.height)}</title><desc id="${id}-desc">Equal scales on both axes. Horizontal half-section ${run}; vertical height ${mixed(dim.height)}. The slope makes ${number(g.angle)} degrees to the horizontal, a modern angular comparison.</desc>
+  const cornerMark = Math.min(14, (c.y - a.y) / 3, (r.x - c.x) / 3);
+  const shortHeight =
+    mixed(dim.height).length <= 10 ? mixed(dim.height) : number(value(dim.height));
+  return `<svg class="section-svg" viewBox="0 0 500 400" role="img" aria-labelledby="${id}-title ${id}-desc" data-kind="${kind}" data-scale="${g.scale}"><title id="${id}-title">${customHeading ? "Symmetrical section; solid unidentified" : kind === "face" ? "Face section" : "Corner section"}: base ${mixed(dim.base)}, height ${mixed(dim.height)}</title><desc id="${id}-desc">Equal scales on both axes. Horizontal half-section ${run}; vertical height ${mixed(dim.height)}. The slope makes ${number(g.angle)} degrees to the horizontal, a modern angular comparison.</desc>
  <path d="M${l.x} ${l.y}L${a.x} ${a.y}L${r.x} ${r.y}Z" class="outline"/>
  <path d="M${a.x} ${a.y}L${c.x} ${c.y}L${r.x} ${r.y}Z" class="half-shape"/>
  ${line(a.x, a.y, c.x, c.y, `height ${emphasis === "height" ? "emphasized" : ""}`)}
  ${line(c.x, c.y, r.x, r.y, `run ${["half", "ratio", "palms"].includes(emphasis) ? "emphasized" : ""}`)}
- <path d="M250 291h14v14" class="right-angle"/>
- ${line(l.x, 335, r.x, 335, emphasis === "base" ? "emphasized base-rule" : "base-rule")}
- ${line(l.x, 330, l.x, 340, "base-rule")}${line(r.x, 330, r.x, 340, "base-rule")}
- ${text(250, 360, kind === "face" ? `${mixed(dim.base)} · base side` : `${number(2 * g.run)} · base diagonal`, "dimension")}
- ${text(250, (a.y + c.y) / 2 - 4, `${mixed(dim.height)} height`, "height-label", "end")}
- ${text((c.x + r.x) / 2, 294, `${run} run`, "run-label")}
+ ${cornerMark >= 2 ? `<path d="M250 ${305 - cornerMark}h${cornerMark}v${cornerMark}" class="right-angle"/>` : ""}
+ ${line(l.x, 352, r.x, 352, emphasis === "base" ? "emphasized base-rule" : "base-rule")}
+ ${line(l.x, 347, l.x, 357, "base-rule")}${line(r.x, 347, r.x, 357, "base-rule")}
+ ${text(250, 379, kind === "face" ? `${mixed(dim.base)} · base side` : `${number(2 * g.run)} · base diagonal`, "dimension")}
+ ${line(480, a.y, 480, c.y, "height")}${line(475, a.y, 485, a.y, "height")}${line(475, c.y, 485, c.y, "height")}
+ ${text(470, (a.y + c.y) / 2 - 5, shortHeight, "height-label", "end")}${text(470, (a.y + c.y) / 2 + 14, "height", "height-label", "end")}
+ ${text((c.x + r.x) / 2, 327, `${run.length <= 10 ? run : number(g.run)} run`, "run-label")}
  ${text(250, 30, customHeading ?? (kind === "face" ? "THROUGH THE MIDDLE OF A FACE" : "THROUGH OPPOSITE CORNERS"), "plate-label")}
  <circle data-point="apex" cx="${a.x}" cy="${a.y}" r="3"/><circle data-point="center" cx="250" cy="305" r="3"/><circle data-point="foot" cx="${r.x}" cy="305" r="3"/>
  </svg>`;
