@@ -1,0 +1,7 @@
+{
+  "oracle": "Python fractions.Fraction; math.atan and square diagonal",
+  "cases": 184,
+  "checks": 2968,
+  "renderedCoordinateToleranceSvgUnits": null,
+  "passed": true
+}

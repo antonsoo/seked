@@ -1,0 +1,166 @@
+{
+  "runtimeSource": "4bf99b5c376ed13e891b20d5c4105c79b6f00d5e",
+  "node": "24.22.0",
+  "cleanInstall": "npm ci; npm run check; npm run verify:geometry",
+  "offlineEdition": "cd840675fefd4409de05a2d0a4c4c8f183138757ed952147c96aa8a443e834f5",
+  "files": [
+    {
+      "file": "assets/index-CFKdRvGt.css",
+      "bytes": 13243,
+      "sha256": "be752abd38a2044c75f56ebdc15a3acf6ebb4bf6a4eb60dfe3939bd6f9d43daf"
+    },
+    {
+      "file": "assets/index-DA15Zk1Z.js",
+      "bytes": 51541,
+      "sha256": "2009c8466a8164bb33e9c3ab0cfa9f34bb4d9704d521671b35b927608d7d185b"
+    },
+    {
+      "file": "favicon.svg",
+      "bytes": 256,
+      "sha256": "32e4ab26ffea7f23c1ad1124dd8bca04e8d94364ba884d63584070971fec26d1"
+    },
+    {
+      "file": "fonts/Atkinson-OFL.txt",
+      "bytes": 4431,
+      "sha256": "aca6a428580965d2297d1b718042dd427c2a9443ece3b0d02d758e161e0c4030"
+    },
+    {
+      "file": "fonts/AtkinsonHyperlegibleNext.ttf",
+      "bytes": 114552,
+      "sha256": "5a455d1cfa099b601ab70751bb9673e8fe1854dc4500c80e1a220d0d75e31745"
+    },
+    {
+      "file": "fonts/NotoSerif-OFL.txt",
+      "bytes": 4396,
+      "sha256": "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a"
+    },
+    {
+      "file": "fonts/NotoSerif-Regular.ttf",
+      "bytes": 444064,
+      "sha256": "5473d2e43bdd018ee124a4addba8091fd0a29894b121cbb741023af6549662b6"
+    },
+    {
+      "file": "index.html",
+      "bytes": 877,
+      "sha256": "edc4da7d012cc24e61d10c3e3f8379e5b775f0def47e99d48a9c78a77b345fcf"
+    },
+    {
+      "file": "sources/chace2-036.jpg",
+      "bytes": 576581,
+      "sha256": "0e7528879facc085c3d3cfe22b74ade3c659ed68080004e2eb5c27fdfd93beb1"
+    },
+    {
+      "file": "sources/chace2-037.jpg",
+      "bytes": 538019,
+      "sha256": "6b29e709a7044f474a1ec597aa2395b0d8d1864604aa87ac0a317fa7a4991f48"
+    },
+    {
+      "file": "sources/chace2-203.jpg",
+      "bytes": 264876,
+      "sha256": "c52a4e957f04264fa75bd1ccdd526c2d9d712777794afe33d2a10aa349c0fa8c"
+    },
+    {
+      "file": "sources/chace2-204.jpg",
+      "bytes": 273194,
+      "sha256": "cc4c0c7697de156d08d485ec346c5a062d1c037bc4d83814c013c0d605deecce"
+    },
+    {
+      "file": "sources/chace2-205.jpg",
+      "bytes": 243426,
+      "sha256": "ca0596278bb1339a4a2f6e075c9762926f8aeac3255b1a7ee0871532037c2226"
+    },
+    {
+      "file": "sources/chace2-206.jpg",
+      "bytes": 288441,
+      "sha256": "f6607a68be30a8621657f322e65165b5fef7da7110a52b00a072d2b6e27bb40a"
+    },
+    {
+      "file": "sources/chace2-207.jpg",
+      "bytes": 236614,
+      "sha256": "889dee03a2d66b1907544c22e96010a1d9e7f795fb76d565eebe614acabb222b"
+    },
+    {
+      "file": "sources/chace2-208.jpg",
+      "bytes": 293519,
+      "sha256": "4f932fd801a585057d259848799d309553fbadf08949d07952adac700c992e22"
+    },
+    {
+      "file": "sources/chace2-209.jpg",
+      "bytes": 254598,
+      "sha256": "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96"
+    },
+    {
+      "file": "sources/chace2-210.jpg",
+      "bytes": 314779,
+      "sha256": "d1559d78cabd56b0b4980f64453a74d5d95111a6fe9ddf6808b05d20c2f3272e"
+    },
+    {
+      "file": "sources/chace2-211.jpg",
+      "bytes": 252674,
+      "sha256": "df82396555c8a0106ecd30aab7c8172c5f15ca3b1bf37aef6646f63c310c625b"
+    },
+    {
+      "file": "sources/chace2-212.jpg",
+      "bytes": 254164,
+      "sha256": "d379df918cd528360348d5f9f499204639d92edfcac6ab8a80bea17dc22ccb86"
+    },
+    {
+      "file": "sources/peet-100.jpg",
+      "bytes": 305619,
+      "sha256": "d9f3310ad89c4240019a8521d2996caa1cbfeb56ea1d5cbcf81f55b395ccf3c7"
+    },
+    {
+      "file": "sw.js",
+      "bytes": 4797,
+      "sha256": "c186a4c8fdbd6305ac32fff2579733af548498b6819dc38445495fa7e4a543b6"
+    }
+  ],
+  "fileCount": 22,
+  "totalBytes": 4734661,
+  "cleanAndWorkingBuildIdentical": true,
+  "printedReadingPages": 7,
+  "printedJpegsRecoveredUnchanged": [
+    {
+      "file": "chace2-209.jpg",
+      "bytes": 254598,
+      "sha256": "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96"
+    },
+    {
+      "file": "chace2-210.jpg",
+      "bytes": 314779,
+      "sha256": "d1559d78cabd56b0b4980f64453a74d5d95111a6fe9ddf6808b05d20c2f3272e"
+    },
+    {
+      "file": "chace2-036.jpg",
+      "bytes": 576581,
+      "sha256": "0e7528879facc085c3d3cfe22b74ade3c659ed68080004e2eb5c27fdfd93beb1"
+    },
+    {
+      "file": "chace2-037.jpg",
+      "bytes": 538019,
+      "sha256": "6b29e709a7044f474a1ec597aa2395b0d8d1864604aa87ac0a317fa7a4991f48"
+    },
+    {
+      "file": "peet-100.jpg",
+      "bytes": 305619,
+      "sha256": "d9f3310ad89c4240019a8521d2996caa1cbfeb56ea1d5cbcf81f55b395ccf3c7"
+    }
+  ],
+  "examples": [
+    {
+      "file": "examples/problem-59-working.html",
+      "bytes": 2665801,
+      "sha256": "962b5e5fefcbb3cba4a3888d5d346eb114fcba447438add06788d1b0ad1b8cdd"
+    },
+    {
+      "file": "examples/problem-59-working.pdf",
+      "bytes": 2060520,
+      "sha256": "540af2c8729ff8d0d76296141d7c4b24927cbb2a6aaf5c3d3de70a994a3fb06d"
+    },
+    {
+      "file": "examples/problem-59-working.csv",
+      "bytes": 185,
+      "sha256": "2b05cee2334c9187cb48408dc460d103b09b682ba9569ae5bde7c67a7a19dc6c"
+    }
+  ]
+}

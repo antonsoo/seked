@@ -1,0 +1,39 @@
+{
+  "checkedAt": "2026-10-22T06:44:11.958Z",
+  "cases": [
+    {
+      "browser": "chromium",
+      "scenario": "hold",
+      "heldMs": 8530,
+      "pendingStatus": "Downloading reading & sources for offline use…",
+      "eventuallyComplete": true,
+      "offlineRepairedReading": true
+    },
+    {
+      "browser": "chromium",
+      "scenario": "substitute",
+      "failedStatus": "Offline download unavailable; reading still works online",
+      "exportFailure": "The source pages could not be verified. Reload online and try the download again.",
+      "refusedDownload": true,
+      "repaired": true,
+      "offlineRepairedReading": true
+    },
+    {
+      "browser": "firefox",
+      "scenario": "hold",
+      "heldMs": 8538,
+      "pendingStatus": "Downloading reading & sources for offline use…",
+      "eventuallyComplete": true,
+      "offlineRepairedReading": true
+    },
+    {
+      "browser": "firefox",
+      "scenario": "substitute",
+      "failedStatus": "Offline download unavailable; reading still works online",
+      "exportFailure": "The source pages could not be verified. Reload online and try the download again.",
+      "refusedDownload": true,
+      "repaired": true,
+      "offlineRepairedReading": true
+    }
+  ]
+}

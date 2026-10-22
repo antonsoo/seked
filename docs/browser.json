@@ -1,0 +1,174 @@
+{
+  "checkedAt": "2026-10-22T06:43:56.963Z",
+  "base": "http://127.0.0.1:4371/seked/",
+  "configurations": [
+    {
+      "browser": "chromium",
+      "version": "153.0.8010.12",
+      "width": 1440,
+      "steps": 35,
+      "sourceCenter": 0.4309090909090909,
+      "photograph59BPosition": {
+        "x": 0.4304545454545455,
+        "y": 0.5605182407091714
+      },
+      "sourceImages": 13,
+      "labCases": 16,
+      "nativeClipboard": true,
+      "savedReadingSha256": "962b5e5fefcbb3cba4a3888d5d346eb114fcba447438add06788d1b0ad1b8cdd",
+      "csv": "scope,problem,dimensions,base,height,halfBase,runPerCubit,palms,fingers,risePerRun\nreading,59,working,12,8,6,3/4,21/4,21,4/3\nexperiment_face,59,modern_experiment,12,8,6,3/4,21/4,21,4/3\n",
+      "embeddedSourceHashes": [
+        "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96",
+        "d1559d78cabd56b0b4980f64453a74d5d95111a6fe9ddf6808b05d20c2f3272e",
+        "0e7528879facc085c3d3cfe22b74ade3c659ed68080004e2eb5c27fdfd93beb1",
+        "6b29e709a7044f474a1ec597aa2395b0d8d1864604aa87ac0a317fa7a4991f48",
+        "d9f3310ad89c4240019a8521d2996caa1cbfeb56ea1d5cbcf81f55b395ccf3c7"
+      ],
+      "sourceHashesOffline": [
+        "0e7528879facc085c3d3cfe22b74ade3c659ed68080004e2eb5c27fdfd93beb1",
+        "6b29e709a7044f474a1ec597aa2395b0d8d1864604aa87ac0a317fa7a4991f48",
+        "c52a4e957f04264fa75bd1ccdd526c2d9d712777794afe33d2a10aa349c0fa8c",
+        "cc4c0c7697de156d08d485ec346c5a062d1c037bc4d83814c013c0d605deecce",
+        "ca0596278bb1339a4a2f6e075c9762926f8aeac3255b1a7ee0871532037c2226",
+        "f6607a68be30a8621657f322e65165b5fef7da7110a52b00a072d2b6e27bb40a",
+        "889dee03a2d66b1907544c22e96010a1d9e7f795fb76d565eebe614acabb222b",
+        "4f932fd801a585057d259848799d309553fbadf08949d07952adac700c992e22",
+        "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96",
+        "d1559d78cabd56b0b4980f64453a74d5d95111a6fe9ddf6808b05d20c2f3272e",
+        "df82396555c8a0106ecd30aab7c8172c5f15ca3b1bf37aef6646f63c310c625b",
+        "d379df918cd528360348d5f9f499204639d92edfcac6ab8a80bea17dc22ccb86",
+        "d9f3310ad89c4240019a8521d2996caa1cbfeb56ea1d5cbcf81f55b395ccf3c7"
+      ],
+      "offlineReadingIdentical": true,
+      "accessibilityViolations": 0,
+      "pageErrors": [],
+      "externalRequests": []
+    },
+    {
+      "browser": "chromium",
+      "version": "153.0.8010.12",
+      "width": 375,
+      "steps": 35,
+      "sourceCenter": 0.4309090909090909,
+      "photograph59BPosition": {
+        "x": 0.43068181818181817,
+        "y": 0.5605182407091714
+      },
+      "sourceImages": 13,
+      "labCases": 16,
+      "nativeClipboard": true,
+      "savedReadingSha256": "962b5e5fefcbb3cba4a3888d5d346eb114fcba447438add06788d1b0ad1b8cdd",
+      "csv": "scope,problem,dimensions,base,height,halfBase,runPerCubit,palms,fingers,risePerRun\nreading,59,working,12,8,6,3/4,21/4,21,4/3\nexperiment_face,59,modern_experiment,12,8,6,3/4,21/4,21,4/3\n",
+      "embeddedSourceHashes": [
+        "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96",
+        "d1559d78cabd56b0b4980f64453a74d5d95111a6fe9ddf6808b05d20c2f3272e",
+        "0e7528879facc085c3d3cfe22b74ade3c659ed68080004e2eb5c27fdfd93beb1",
+        "6b29e709a7044f474a1ec597aa2395b0d8d1864604aa87ac0a317fa7a4991f48",
+        "d9f3310ad89c4240019a8521d2996caa1cbfeb56ea1d5cbcf81f55b395ccf3c7"
+      ],
+      "sourceHashesOffline": [
+        "0e7528879facc085c3d3cfe22b74ade3c659ed68080004e2eb5c27fdfd93beb1",
+        "6b29e709a7044f474a1ec597aa2395b0d8d1864604aa87ac0a317fa7a4991f48",
+        "c52a4e957f04264fa75bd1ccdd526c2d9d712777794afe33d2a10aa349c0fa8c",
+        "cc4c0c7697de156d08d485ec346c5a062d1c037bc4d83814c013c0d605deecce",
+        "ca0596278bb1339a4a2f6e075c9762926f8aeac3255b1a7ee0871532037c2226",
+        "f6607a68be30a8621657f322e65165b5fef7da7110a52b00a072d2b6e27bb40a",
+        "889dee03a2d66b1907544c22e96010a1d9e7f795fb76d565eebe614acabb222b",
+        "4f932fd801a585057d259848799d309553fbadf08949d07952adac700c992e22",
+        "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96",
+        "d1559d78cabd56b0b4980f64453a74d5d95111a6fe9ddf6808b05d20c2f3272e",
+        "df82396555c8a0106ecd30aab7c8172c5f15ca3b1bf37aef6646f63c310c625b",
+        "d379df918cd528360348d5f9f499204639d92edfcac6ab8a80bea17dc22ccb86",
+        "d9f3310ad89c4240019a8521d2996caa1cbfeb56ea1d5cbcf81f55b395ccf3c7"
+      ],
+      "offlineReadingIdentical": true,
+      "accessibilityViolations": 0,
+      "pageErrors": [],
+      "externalRequests": []
+    },
+    {
+      "browser": "firefox",
+      "version": "155.0",
+      "width": 1440,
+      "steps": 35,
+      "sourceCenter": 0.4303030303030303,
+      "photograph59BPosition": {
+        "x": 0.4304545454545455,
+        "y": 0.5605182407091714
+      },
+      "sourceImages": 13,
+      "labCases": 16,
+      "nativeClipboard": true,
+      "savedReadingSha256": "962b5e5fefcbb3cba4a3888d5d346eb114fcba447438add06788d1b0ad1b8cdd",
+      "csv": "scope,problem,dimensions,base,height,halfBase,runPerCubit,palms,fingers,risePerRun\nreading,59,working,12,8,6,3/4,21/4,21,4/3\nexperiment_face,59,modern_experiment,12,8,6,3/4,21/4,21,4/3\n",
+      "embeddedSourceHashes": [
+        "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96",
+        "d1559d78cabd56b0b4980f64453a74d5d95111a6fe9ddf6808b05d20c2f3272e",
+        "0e7528879facc085c3d3cfe22b74ade3c659ed68080004e2eb5c27fdfd93beb1",
+        "6b29e709a7044f474a1ec597aa2395b0d8d1864604aa87ac0a317fa7a4991f48",
+        "d9f3310ad89c4240019a8521d2996caa1cbfeb56ea1d5cbcf81f55b395ccf3c7"
+      ],
+      "sourceHashesOffline": [
+        "0e7528879facc085c3d3cfe22b74ade3c659ed68080004e2eb5c27fdfd93beb1",
+        "6b29e709a7044f474a1ec597aa2395b0d8d1864604aa87ac0a317fa7a4991f48",
+        "c52a4e957f04264fa75bd1ccdd526c2d9d712777794afe33d2a10aa349c0fa8c",
+        "cc4c0c7697de156d08d485ec346c5a062d1c037bc4d83814c013c0d605deecce",
+        "ca0596278bb1339a4a2f6e075c9762926f8aeac3255b1a7ee0871532037c2226",
+        "f6607a68be30a8621657f322e65165b5fef7da7110a52b00a072d2b6e27bb40a",
+        "889dee03a2d66b1907544c22e96010a1d9e7f795fb76d565eebe614acabb222b",
+        "4f932fd801a585057d259848799d309553fbadf08949d07952adac700c992e22",
+        "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96",
+        "d1559d78cabd56b0b4980f64453a74d5d95111a6fe9ddf6808b05d20c2f3272e",
+        "df82396555c8a0106ecd30aab7c8172c5f15ca3b1bf37aef6646f63c310c625b",
+        "d379df918cd528360348d5f9f499204639d92edfcac6ab8a80bea17dc22ccb86",
+        "d9f3310ad89c4240019a8521d2996caa1cbfeb56ea1d5cbcf81f55b395ccf3c7"
+      ],
+      "offlineReadingIdentical": true,
+      "accessibilityViolations": 0,
+      "pageErrors": [],
+      "externalRequests": []
+    },
+    {
+      "browser": "firefox",
+      "version": "155.0",
+      "width": 375,
+      "steps": 35,
+      "sourceCenter": 0.4303030303030303,
+      "photograph59BPosition": {
+        "x": 0.43022727272727274,
+        "y": 0.5605182407091714
+      },
+      "sourceImages": 13,
+      "labCases": 16,
+      "nativeClipboard": true,
+      "savedReadingSha256": "962b5e5fefcbb3cba4a3888d5d346eb114fcba447438add06788d1b0ad1b8cdd",
+      "csv": "scope,problem,dimensions,base,height,halfBase,runPerCubit,palms,fingers,risePerRun\nreading,59,working,12,8,6,3/4,21/4,21,4/3\nexperiment_face,59,modern_experiment,12,8,6,3/4,21/4,21,4/3\n",
+      "embeddedSourceHashes": [
+        "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96",
+        "d1559d78cabd56b0b4980f64453a74d5d95111a6fe9ddf6808b05d20c2f3272e",
+        "0e7528879facc085c3d3cfe22b74ade3c659ed68080004e2eb5c27fdfd93beb1",
+        "6b29e709a7044f474a1ec597aa2395b0d8d1864604aa87ac0a317fa7a4991f48",
+        "d9f3310ad89c4240019a8521d2996caa1cbfeb56ea1d5cbcf81f55b395ccf3c7"
+      ],
+      "sourceHashesOffline": [
+        "0e7528879facc085c3d3cfe22b74ade3c659ed68080004e2eb5c27fdfd93beb1",
+        "6b29e709a7044f474a1ec597aa2395b0d8d1864604aa87ac0a317fa7a4991f48",
+        "c52a4e957f04264fa75bd1ccdd526c2d9d712777794afe33d2a10aa349c0fa8c",
+        "cc4c0c7697de156d08d485ec346c5a062d1c037bc4d83814c013c0d605deecce",
+        "ca0596278bb1339a4a2f6e075c9762926f8aeac3255b1a7ee0871532037c2226",
+        "f6607a68be30a8621657f322e65165b5fef7da7110a52b00a072d2b6e27bb40a",
+        "889dee03a2d66b1907544c22e96010a1d9e7f795fb76d565eebe614acabb222b",
+        "4f932fd801a585057d259848799d309553fbadf08949d07952adac700c992e22",
+        "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96",
+        "d1559d78cabd56b0b4980f64453a74d5d95111a6fe9ddf6808b05d20c2f3272e",
+        "df82396555c8a0106ecd30aab7c8172c5f15ca3b1bf37aef6646f63c310c625b",
+        "d379df918cd528360348d5f9f499204639d92edfcac6ab8a80bea17dc22ccb86",
+        "d9f3310ad89c4240019a8521d2996caa1cbfeb56ea1d5cbcf81f55b395ccf3c7"
+      ],
+      "offlineReadingIdentical": true,
+      "accessibilityViolations": 0,
+      "pageErrors": [],
+      "externalRequests": []
+    }
+  ]
+}
