@@ -1,0 +1,67 @@
+[
+  {
+    "file": "chace2-036.jpg",
+    "bytes": 576581,
+    "sha256": "0e7528879facc085c3d3cfe22b74ade3c659ed68080004e2eb5c27fdfd93beb1"
+  },
+  {
+    "file": "chace2-037.jpg",
+    "bytes": 538019,
+    "sha256": "6b29e709a7044f474a1ec597aa2395b0d8d1864604aa87ac0a317fa7a4991f48"
+  },
+  {
+    "file": "chace2-203.jpg",
+    "bytes": 264876,
+    "sha256": "c52a4e957f04264fa75bd1ccdd526c2d9d712777794afe33d2a10aa349c0fa8c"
+  },
+  {
+    "file": "chace2-204.jpg",
+    "bytes": 273194,
+    "sha256": "cc4c0c7697de156d08d485ec346c5a062d1c037bc4d83814c013c0d605deecce"
+  },
+  {
+    "file": "chace2-205.jpg",
+    "bytes": 243426,
+    "sha256": "ca0596278bb1339a4a2f6e075c9762926f8aeac3255b1a7ee0871532037c2226"
+  },
+  {
+    "file": "chace2-206.jpg",
+    "bytes": 288441,
+    "sha256": "f6607a68be30a8621657f322e65165b5fef7da7110a52b00a072d2b6e27bb40a"
+  },
+  {
+    "file": "chace2-207.jpg",
+    "bytes": 236614,
+    "sha256": "889dee03a2d66b1907544c22e96010a1d9e7f795fb76d565eebe614acabb222b"
+  },
+  {
+    "file": "chace2-208.jpg",
+    "bytes": 293519,
+    "sha256": "4f932fd801a585057d259848799d309553fbadf08949d07952adac700c992e22"
+  },
+  {
+    "file": "chace2-209.jpg",
+    "bytes": 254598,
+    "sha256": "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96"
+  },
+  {
+    "file": "chace2-210.jpg",
+    "bytes": 314779,
+    "sha256": "d1559d78cabd56b0b4980f64453a74d5d95111a6fe9ddf6808b05d20c2f3272e"
+  },
+  {
+    "file": "chace2-211.jpg",
+    "bytes": 252674,
+    "sha256": "df82396555c8a0106ecd30aab7c8172c5f15ca3b1bf37aef6646f63c310c625b"
+  },
+  {
+    "file": "chace2-212.jpg",
+    "bytes": 254164,
+    "sha256": "d379df918cd528360348d5f9f499204639d92edfcac6ab8a80bea17dc22ccb86"
+  },
+  {
+    "file": "peet-100.jpg",
+    "bytes": 305619,
+    "sha256": "d9f3310ad89c4240019a8521d2996caa1cbfeb56ea1d5cbcf81f55b395ccf3c7"
+  }
+]
