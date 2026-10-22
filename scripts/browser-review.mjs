@@ -144,6 +144,20 @@ for (const [name, engine] of [
         );
       }
       assert.equal(sourcesSeen.size, 13);
+      await page.locator('[data-problem="59B"]').click();
+      await page.locator('[data-source="37"]').click();
+      await page.locator("#scan-window img").evaluate((img) => img.decode());
+      await page.locator("#zoom").click();
+      const photoPosition = await page.locator("#scan-window").evaluate((el) => ({
+        x: (el.scrollLeft + el.clientWidth / 2) / el.querySelector("img").clientWidth,
+        y: (el.scrollTop + el.clientHeight / 2) / el.querySelector("img").clientHeight,
+      }));
+      assert(Math.abs(photoPosition.x - 0.43) < 0.002);
+      assert(Math.abs(photoPosition.y - 0.56) < 0.002);
+      assert.match(await page.locator("#scan-caption").innerText(), /59B is written separately/);
+      await page
+        .locator("#scan-window")
+        .screenshot({ path: path.join(output, `${name}-${width}-photograph.png`) });
       // A vocabulary link keeps its own evidence selected even under another problem.
       await page.locator('[data-word-source="203"]').first().click();
       assert.equal(await page.locator('[data-source="203"]').getAttribute("aria-pressed"), "true");
@@ -210,6 +224,7 @@ for (const [name, engine] of [
         await page.locator('[data-section="corner"]').getAttribute("aria-pressed"),
         "true",
       );
+      await page.locator("#reader-title").focus();
       await page
         .locator(".reading-desk")
         .screenshot({ path: path.join(output, `${name}-${width}-reading.png`) });
@@ -297,6 +312,7 @@ for (const [name, engine] of [
         width,
         steps,
         sourceCenter,
+        photograph59BPosition: photoPosition,
         sourceImages: sourcesSeen.size,
         labCases: labCases.length * 2,
         nativeClipboard,

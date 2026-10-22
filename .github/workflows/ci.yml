@@ -1,0 +1,31 @@
+name: CI
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+      - run: npm run verify:geometry
+      - run: npx playwright install --with-deps chromium firefox
+      - name: Review browser readings
+        run: |
+          npm run preview > /tmp/seked-preview.log 2>&1 &
+          preview_pid=$!
+          trap 'kill "$preview_pid"' EXIT
+          for attempt in $(seq 1 30); do
+            if curl --fail --silent http://127.0.0.1:4371/seked/ > /dev/null; then break; fi
+            sleep 1
+          done
+          npm run test:browser
+          python3 scripts/geometry-oracle.py --rendered < /tmp/seked-browser/rendered.json
+      - run: node scripts/offline-review.mjs
