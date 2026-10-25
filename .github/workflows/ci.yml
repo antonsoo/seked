@@ -16,6 +16,7 @@ jobs:
       - run: npm ci
       - run: npm run check
       - run: npm run verify:geometry
+      - run: npm run verify:frustum
       - run: npx playwright install --with-deps chromium firefox
       - name: Review browser readings
         run: |
@@ -29,3 +30,7 @@ jobs:
           npm run test:browser
           python3 scripts/geometry-oracle.py --rendered < /tmp/seked-browser/rendered.json
       - run: node scripts/offline-review.mjs
+      - name: Review dissection controls and portable readings
+        run: |
+          npm run test:frustum
+          python3 scripts/frustum-oracle.py --browser /tmp/seked-frustum/review.json
