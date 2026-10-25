@@ -1,0 +1,25 @@
+B. Touraeff, “The Volume of the Truncated Pyramid in Egyptian Mathematics”,
+Ancient Egypt (1917), pp. 100–102.
+
+Digitized volume: Internet Archive in.ernet.dli.2015.107209, supplied by the
+Digital Library of India. These are complete printed pages, rendered without
+retouching from 2015.107209.Ancient-Egypt-Vol4.pdf, PDF pages 115–117
+(zero-based Archive leaves 114–116). Page images are not newly photographed
+museum objects. The photograph printed on p. 101 has severe tonal loss in this
+digitization; the typeset transcription on p. 100 is a separate editorial witness.
+
+Original 1917 publication: public domain. Touraeff (Boris Turaev) died in 1920.
+The paper is a preliminary publication, earlier than Struve's complete 1930
+edition. Its column counts and numbering are retained as historical statements,
+not used to identify the modern problem number. Its “empirically” is the
+author's conjecture about derivation, not a fact established by the papyrus.
+
+The author’s English translation, numerical example, hieroglyphic transcription,
+photograph, comments and the bracketed editor's note have distinct roles.
+The interactive dissection and all generalized algebra are modern teaching
+material by Anton Soloviev (2026), licensed MIT. No dissection is attested by
+these pages. “Problem 14” is the later conventional numbering.
+
+Reproduction commands, input/output hashes and exact file identities:
+src/frustum-sources.json and scripts/frustum-sources.py in the source repository.
+https://archive.org/details/in.ernet.dli.2015.107209/page/n114/mode/1up
