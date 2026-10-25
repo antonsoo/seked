@@ -27,7 +27,7 @@ separate claim from those served bytes.
 ## Public browser behavior
 
 `node scripts/frustum-hosted.mjs /tmp/seked-public` exercised the actual public
-origin, rather than a local preview. Chromium 153.0.8010.12 and Firefox 151.0
+origin, rather than a local preview. Chromium 153.0.8010.12 and Firefox 155.0
 completed the lesson at **1440 px and 375 px**:
 
 - Keyboard separation, exact custom volume 74, independent recorded example 56,
