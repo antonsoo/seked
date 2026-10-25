@@ -1,0 +1,4018 @@
+[
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "56",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "56",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "56",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "56",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "56",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "57",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "57",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "57",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "57",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "57",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "58",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "58",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "58",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "58",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "58",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59",
+    "reading": "working",
+    "step": 0,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59",
+    "reading": "working",
+    "step": 1,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59",
+    "reading": "working",
+    "step": 2,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59",
+    "reading": "working",
+    "step": 3,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59",
+    "reading": "working",
+    "step": 4,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59B",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59B",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59B",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59B",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "59B",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "60",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "60",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "60",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "60",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 1440,
+    "p": "60",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [1.2480078125, 1.2480078125]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "12",
+    "height": "8",
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "12",
+    "height": "8",
+    "kind": "corner",
+    "scale": 22.980970388562792,
+    "points": {
+      "apex": [250, 121.15223693847656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [287.0401611328125, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "140",
+    "height": "280/3",
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "140",
+    "height": "280/3",
+    "kind": "corner",
+    "scale": 1.9697974618768108,
+    "points": {
+      "apex": [250, 121.15223693847656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [287.0401611328125, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "360",
+    "height": "250",
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "360",
+    "height": "250",
+    "kind": "corner",
+    "scale": 0.7660323462854265,
+    "points": {
+      "apex": [250, 113.49191284179688],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [279.31854248046875, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "15",
+    "height": "30",
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "15",
+    "height": "30",
+    "kind": "corner",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [336.6205749511719, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [158.34671020507812, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "1/100",
+    "height": "500",
+    "kind": "face",
+    "scale": 0.49,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [250.00245666503906, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [94.00182342529297, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "1/100",
+    "height": "500",
+    "kind": "corner",
+    "scale": 0.49,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [250.0034637451172, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [94.00257110595703, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "500",
+    "height": "1/100",
+    "kind": "face",
+    "scale": 0.78,
+    "points": {
+      "apex": [250, 304.9921875],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 259.98980712890625],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "500",
+    "height": "1/100",
+    "kind": "corner",
+    "scale": 0.551543289325507,
+    "points": {
+      "apex": [250, 304.9944763183594],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 259.9927978515625],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "7/4",
+    "height": "1/3",
+    "kind": "face",
+    "scale": 222.85714285714286,
+    "points": {
+      "apex": [250, 230.7142791748047],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 162.85714721679688],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "7/4",
+    "height": "1/3",
+    "kind": "corner",
+    "scale": 157.5837969501449,
+    "points": {
+      "apex": [250, 252.47206115722656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 191.30963134765625],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "36",
+    "height": "24",
+    "kind": "face",
+    "scale": 10.208333333333334,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 1440,
+    "base": "36",
+    "height": "24",
+    "kind": "corner",
+    "scale": 7.660323462854264,
+    "points": {
+      "apex": [250, 121.15223693847656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [287.0401611328125, 260]
+    },
+    "screenScale": [1.279609375, 1.279609375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "56",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "56",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "56",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "56",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "56",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "57",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "57",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "57",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "57",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "57",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "58",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "58",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "58",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "58",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "58",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59",
+    "reading": "working",
+    "step": 0,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59",
+    "reading": "working",
+    "step": 1,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59",
+    "reading": "working",
+    "step": 2,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59",
+    "reading": "working",
+    "step": 3,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59",
+    "reading": "working",
+    "step": 4,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59B",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59B",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59B",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59B",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "59B",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "60",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "60",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "60",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "60",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lesson",
+    "browser": "chromium",
+    "width": 375,
+    "p": "60",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [0.633984375, 0.633984375]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "12",
+    "height": "8",
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "12",
+    "height": "8",
+    "kind": "corner",
+    "scale": 22.980970388562792,
+    "points": {
+      "apex": [250, 121.15223693847656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [287.0401611328125, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "140",
+    "height": "280/3",
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "140",
+    "height": "280/3",
+    "kind": "corner",
+    "scale": 1.9697974618768108,
+    "points": {
+      "apex": [250, 121.15223693847656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [287.0401611328125, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "360",
+    "height": "250",
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "360",
+    "height": "250",
+    "kind": "corner",
+    "scale": 0.7660323462854265,
+    "points": {
+      "apex": [250, 113.49191284179688],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [279.31854248046875, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "15",
+    "height": "30",
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "15",
+    "height": "30",
+    "kind": "corner",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [336.6205749511719, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [158.34671020507812, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "1/100",
+    "height": "500",
+    "kind": "face",
+    "scale": 0.49,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [250.00245666503906, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [94.00182342529297, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "1/100",
+    "height": "500",
+    "kind": "corner",
+    "scale": 0.49,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [250.0034637451172, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [94.00257110595703, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "500",
+    "height": "1/100",
+    "kind": "face",
+    "scale": 0.78,
+    "points": {
+      "apex": [250, 304.9921875],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 259.98980712890625],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "500",
+    "height": "1/100",
+    "kind": "corner",
+    "scale": 0.551543289325507,
+    "points": {
+      "apex": [250, 304.9944763183594],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 259.9927978515625],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "7/4",
+    "height": "1/3",
+    "kind": "face",
+    "scale": 222.85714285714286,
+    "points": {
+      "apex": [250, 230.7142791748047],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 162.85714721679688],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "7/4",
+    "height": "1/3",
+    "kind": "corner",
+    "scale": 157.5837969501449,
+    "points": {
+      "apex": [250, 252.47206115722656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 191.30963134765625],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "36",
+    "height": "24",
+    "kind": "face",
+    "scale": 10.208333333333334,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lab",
+    "browser": "chromium",
+    "width": 375,
+    "base": "36",
+    "height": "24",
+    "kind": "corner",
+    "scale": 7.660323462854264,
+    "points": {
+      "apex": [250, 121.15223693847656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [287.0401611328125, 260]
+    },
+    "screenScale": [0.67, 0.67]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "56",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "56",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "56",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "56",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "56",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "57",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "57",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "57",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "57",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "57",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "58",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "58",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "58",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "58",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "58",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59",
+    "reading": "working",
+    "step": 0,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59",
+    "reading": "working",
+    "step": 1,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59",
+    "reading": "working",
+    "step": 2,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59",
+    "reading": "working",
+    "step": 3,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59",
+    "reading": "working",
+    "step": 4,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59B",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59B",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59B",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59B",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "59B",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "60",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "60",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "60",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "60",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 1440,
+    "p": "60",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [1.2480332851409912, 1.2480332851409912]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "12",
+    "height": "8",
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "12",
+    "height": "8",
+    "kind": "corner",
+    "scale": 22.980970388562792,
+    "points": {
+      "apex": [250, 121.15223693847656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [287.0401611328125, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "140",
+    "height": "280/3",
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "140",
+    "height": "280/3",
+    "kind": "corner",
+    "scale": 1.9697974618768108,
+    "points": {
+      "apex": [250, 121.15223693847656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [287.0401611328125, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "360",
+    "height": "250",
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "360",
+    "height": "250",
+    "kind": "corner",
+    "scale": 0.7660323462854265,
+    "points": {
+      "apex": [250, 113.49191284179688],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [279.31854248046875, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "15",
+    "height": "30",
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "15",
+    "height": "30",
+    "kind": "corner",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [336.6205749511719, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [158.34671020507812, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "1/100",
+    "height": "500",
+    "kind": "face",
+    "scale": 0.49,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [250.00245666503906, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [94.00182342529297, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "1/100",
+    "height": "500",
+    "kind": "corner",
+    "scale": 0.49,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [250.0034637451172, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [94.00257110595703, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "500",
+    "height": "1/100",
+    "kind": "face",
+    "scale": 0.78,
+    "points": {
+      "apex": [250, 304.9921875],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 259.98980712890625],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "500",
+    "height": "1/100",
+    "kind": "corner",
+    "scale": 0.551543289325507,
+    "points": {
+      "apex": [250, 304.9944763183594],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 259.9927978515625],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "7/4",
+    "height": "1/3",
+    "kind": "face",
+    "scale": 222.85714285714286,
+    "points": {
+      "apex": [250, 230.7142791748047],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 162.85714721679688],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "7/4",
+    "height": "1/3",
+    "kind": "corner",
+    "scale": 157.5837969501449,
+    "points": {
+      "apex": [250, 252.47206115722656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 191.30963134765625],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "36",
+    "height": "24",
+    "kind": "face",
+    "scale": 10.208333333333334,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 1440,
+    "base": "36",
+    "height": "24",
+    "kind": "corner",
+    "scale": 7.660323462854264,
+    "points": {
+      "apex": [250, 121.15223693847656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [287.0401611328125, 260]
+    },
+    "screenScale": [1.2796666622161865, 1.2796666622161865]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "56",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "56",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "56",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "56",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "56",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "57",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "57",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "57",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "57",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "57",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "58",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "58",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "58",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "58",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "58",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 20.416666666666668,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [331.6666564941406, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [154.6666717529297, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59",
+    "reading": "working",
+    "step": 0,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59",
+    "reading": "working",
+    "step": 1,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59",
+    "reading": "working",
+    "step": 2,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59",
+    "reading": "working",
+    "step": 3,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59",
+    "reading": "working",
+    "step": 4,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59B",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59B",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59B",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59B",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "59B",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "60",
+    "reading": "written",
+    "step": 0,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "60",
+    "reading": "written",
+    "step": 1,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "60",
+    "reading": "written",
+    "step": 2,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "60",
+    "reading": "written",
+    "step": 3,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lesson",
+    "browser": "firefox",
+    "width": 375,
+    "p": "60",
+    "reading": "written",
+    "step": 4,
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [0.6340000033378601, 0.6340000033378601]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "12",
+    "height": "8",
+    "kind": "face",
+    "scale": 30.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "12",
+    "height": "8",
+    "kind": "corner",
+    "scale": 22.980970388562792,
+    "points": {
+      "apex": [250, 121.15223693847656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [287.0401611328125, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "140",
+    "height": "280/3",
+    "kind": "face",
+    "scale": 2.625,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "140",
+    "height": "280/3",
+    "kind": "corner",
+    "scale": 1.9697974618768108,
+    "points": {
+      "apex": [250, 121.15223693847656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [287.0401611328125, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "360",
+    "height": "250",
+    "kind": "face",
+    "scale": 0.98,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [426.3999938964844, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [225.0399932861328, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "360",
+    "height": "250",
+    "kind": "corner",
+    "scale": 0.7660323462854265,
+    "points": {
+      "apex": [250, 113.49191284179688],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [279.31854248046875, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "15",
+    "height": "30",
+    "kind": "face",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [311.25, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [139.5, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "15",
+    "height": "30",
+    "kind": "corner",
+    "scale": 8.166666666666666,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [336.6205749511719, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [158.34671020507812, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "1/100",
+    "height": "500",
+    "kind": "face",
+    "scale": 0.49,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [250.00245666503906, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [94.00182342529297, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "1/100",
+    "height": "500",
+    "kind": "corner",
+    "scale": 0.49,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [250.0034637451172, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [94.00257110595703, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "500",
+    "height": "1/100",
+    "kind": "face",
+    "scale": 0.78,
+    "points": {
+      "apex": [250, 304.9921875],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 259.98980712890625],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "500",
+    "height": "1/100",
+    "kind": "corner",
+    "scale": 0.551543289325507,
+    "points": {
+      "apex": [250, 304.9944763183594],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 259.9927978515625],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "7/4",
+    "height": "1/3",
+    "kind": "face",
+    "scale": 222.85714285714286,
+    "points": {
+      "apex": [250, 230.7142791748047],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 162.85714721679688],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "7/4",
+    "height": "1/3",
+    "kind": "corner",
+    "scale": 157.5837969501449,
+    "points": {
+      "apex": [250, 252.47206115722656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 191.30963134765625],
+      "unit-foot": [349, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "36",
+    "height": "24",
+    "kind": "face",
+    "scale": 10.208333333333334,
+    "points": {
+      "apex": [250, 60],
+      "center": [250, 305],
+      "foot": [433.75, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [230.5, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  },
+  {
+    "scope": "lab",
+    "browser": "firefox",
+    "width": 375,
+    "base": "36",
+    "height": "24",
+    "kind": "corner",
+    "scale": 7.660323462854264,
+    "points": {
+      "apex": [250, 121.15223693847656],
+      "center": [250, 305],
+      "foot": [445, 305]
+    },
+    "unit": {
+      "unit-top": [94, 78],
+      "unit-foot": [287.0401611328125, 260]
+    },
+    "screenScale": [0.6700000166893005, 0.6700000166893005]
+  }
+]

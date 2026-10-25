@@ -18,6 +18,51 @@ original photographs and another edition's corrections.
 [Read the mismatch in 59](https://antonsoo.github.io/seked/?p=59&rows=3&step=3&reading=written#reader) ·
 [Follow the reciprocal in 60](https://antonsoo.github.io/seked/?p=60&rows=4&step=2#reader)
 
+## A pyramid without its point
+
+The companion room at `frustum.html` takes apart the square frustum in the
+**Moscow mathematical papyrus, problem 14**. Its numerical example has lower
+side 4, upper side 2 and height 6. Separate one central prism, four wedges and
+four corner pyramids: their group volumes give **24 + 24 + 8 = 56**.
+
+![The nine pieces at a fixed drawing scale, with their exact volumes](docs/assets/frustum-desktop.png)
+
+Turn the view, isolate a group, change exact fractional dimensions, and inspect
+a horizontal cut. Averaging the end areas gives 60; using the middle square
+gives 54. The dissection explains why both miss 56. At equal end sides the
+wedges and corner pyramids vanish; at a zero upper side only four pyramids remain.
+
+The source reading stays at 4, 2, 6 while you experiment. Six operations follow
+Touraeff's **1917 translation**, including its particular instruction to double
+four. Three complete printed pages retain the Egyptian transcription, historical
+photograph, interpretation and editor's note. Their role is distinct from the
+modern dissection: the papyrus example supplies no derivation. The digitized
+photograph's severe tonal loss is visible and explicitly described.
+
+Save a complete illustrated reading, font-embedded SVG, exact CSV or editable
+JSON. Both rooms share the integrity-checked offline edition. The new room is
+**verified locally; these commits have not been pushed or deployed**. Start
+`npm run dev` as below and open
+`http://127.0.0.1:4370/seked/frustum.html#pieces`.
+
+[Source and geometry](docs/frustum-model.md) · [Direct review](docs/frustum-review.md) ·
+[Saved HTML reading, gzip-compressed](examples/frustum-reading.html.gz) ·
+[Printed reading](examples/frustum-reading.pdf) ·
+[Exact quantities](examples/frustum.csv) · [Editable settings](examples/frustum-settings.json).
+Decompress the HTML before opening it. Its source images and fonts are embedded.
+
+```sh
+npm run verify:frustum
+npm run test:frustum
+python3 scripts/frustum-oracle.py --browser /tmp/seked-frustum/review.json
+```
+
+The browser command starts its own production servers; build `dist/` first.
+It needs the existing Playwright Chromium and Firefox installations. It exercises
+keyboard controls, real downloads, reopening files, source identity, phone layout
+and use after the origin is stopped. The independent oracle integrates the
+cross-sectional area and measures every actual mesh as tetrahedra.
+
 ## Read, reckon, compare
 
 - Six exercises, 56–60 including 59B, each with five explanatory steps. Drawings

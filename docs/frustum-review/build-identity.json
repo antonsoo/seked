@@ -1,0 +1,131 @@
+{
+  "checkedAt": "2026-10-25T20:17:49Z",
+  "sourceCommit": "010e84225d4534310af6e4313db49d495d996ba3",
+  "node": "v24.22.0",
+  "freshNpmCi": true,
+  "check": "lint, strict typecheck, eight tests, production build",
+  "filesIdentical": 30,
+  "files": [
+    {
+      "file": "assets/frustum-C35Wu40j.js",
+      "sha256": "28eda7c36c12b07e43819f27558784ea17aa8242bb5d6cc570b6f228d56308d1"
+    },
+    {
+      "file": "assets/frustum-DyjMuzP-.css",
+      "sha256": "ee446236b1b33691b126027b1a8baca0700dae1425f9f74170edef33d9fcd443"
+    },
+    {
+      "file": "assets/index-BrkQG1dU.js",
+      "sha256": "8874fa715cce02f6baf2985af27fbb5e5ba74b7129462b94eebcf71850e6f17d"
+    },
+    {
+      "file": "assets/offline-CFKdRvGt.css",
+      "sha256": "be752abd38a2044c75f56ebdc15a3acf6ebb4bf6a4eb60dfe3939bd6f9d43daf"
+    },
+    {
+      "file": "assets/offline-CUWD3rJ1.js",
+      "sha256": "fff1ecfff580900c1b21441814a8f9c9d990fdbb12dcc508852b952e62162326"
+    },
+    {
+      "file": "favicon.svg",
+      "sha256": "32e4ab26ffea7f23c1ad1124dd8bca04e8d94364ba884d63584070971fec26d1"
+    },
+    {
+      "file": "fonts/Atkinson-OFL.txt",
+      "sha256": "aca6a428580965d2297d1b718042dd427c2a9443ece3b0d02d758e161e0c4030"
+    },
+    {
+      "file": "fonts/AtkinsonHyperlegibleNext.ttf",
+      "sha256": "5a455d1cfa099b601ab70751bb9673e8fe1854dc4500c80e1a220d0d75e31745"
+    },
+    {
+      "file": "fonts/NotoSerif-OFL.txt",
+      "sha256": "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a"
+    },
+    {
+      "file": "fonts/NotoSerif-Regular.ttf",
+      "sha256": "5473d2e43bdd018ee124a4addba8091fd0a29894b121cbb741023af6549662b6"
+    },
+    {
+      "file": "frustum.html",
+      "sha256": "16cb52ac801f37043302797a50a5feba22714ad70535024e7e670c335f8b8738"
+    },
+    {
+      "file": "index.html",
+      "sha256": "6aef8cb6f773f9cf2845385e42f46460051143d843659c9d84eaa04aa53f59c4"
+    },
+    {
+      "file": "sources/chace2-036.jpg",
+      "sha256": "0e7528879facc085c3d3cfe22b74ade3c659ed68080004e2eb5c27fdfd93beb1"
+    },
+    {
+      "file": "sources/chace2-037.jpg",
+      "sha256": "6b29e709a7044f474a1ec597aa2395b0d8d1864604aa87ac0a317fa7a4991f48"
+    },
+    {
+      "file": "sources/chace2-203.jpg",
+      "sha256": "c52a4e957f04264fa75bd1ccdd526c2d9d712777794afe33d2a10aa349c0fa8c"
+    },
+    {
+      "file": "sources/chace2-204.jpg",
+      "sha256": "cc4c0c7697de156d08d485ec346c5a062d1c037bc4d83814c013c0d605deecce"
+    },
+    {
+      "file": "sources/chace2-205.jpg",
+      "sha256": "ca0596278bb1339a4a2f6e075c9762926f8aeac3255b1a7ee0871532037c2226"
+    },
+    {
+      "file": "sources/chace2-206.jpg",
+      "sha256": "f6607a68be30a8621657f322e65165b5fef7da7110a52b00a072d2b6e27bb40a"
+    },
+    {
+      "file": "sources/chace2-207.jpg",
+      "sha256": "889dee03a2d66b1907544c22e96010a1d9e7f795fb76d565eebe614acabb222b"
+    },
+    {
+      "file": "sources/chace2-208.jpg",
+      "sha256": "4f932fd801a585057d259848799d309553fbadf08949d07952adac700c992e22"
+    },
+    {
+      "file": "sources/chace2-209.jpg",
+      "sha256": "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96"
+    },
+    {
+      "file": "sources/chace2-210.jpg",
+      "sha256": "d1559d78cabd56b0b4980f64453a74d5d95111a6fe9ddf6808b05d20c2f3272e"
+    },
+    {
+      "file": "sources/chace2-211.jpg",
+      "sha256": "df82396555c8a0106ecd30aab7c8172c5f15ca3b1bf37aef6646f63c310c625b"
+    },
+    {
+      "file": "sources/chace2-212.jpg",
+      "sha256": "d379df918cd528360348d5f9f499204639d92edfcac6ab8a80bea17dc22ccb86"
+    },
+    {
+      "file": "sources/frustum/NOTICES.txt",
+      "sha256": "a1b9df02c3e52433c6715fc2201291b08f4cda655c13472a15e072174e6b97c7"
+    },
+    {
+      "file": "sources/frustum/touraeff-100.jpg",
+      "sha256": "e821f2e2e216f87bbeef0b05c871943214ebc8f9803074378b283202f42b635f"
+    },
+    {
+      "file": "sources/frustum/touraeff-101.jpg",
+      "sha256": "47e1aee3ed1e2db32b483bf02ba131d1bc2010dec24be0a07d8efc3a8e5aec5a"
+    },
+    {
+      "file": "sources/frustum/touraeff-102.jpg",
+      "sha256": "6c2345cbb8ab8b131a65adc4d857a3738fee341600cfbe33f9a8e4831733d56a"
+    },
+    {
+      "file": "sources/peet-100.jpg",
+      "sha256": "d9f3310ad89c4240019a8521d2996caa1cbfeb56ea1d5cbcf81f55b395ccf3c7"
+    },
+    {
+      "file": "sw.js",
+      "sha256": "be26aad547a291d55a4db6509b135147c9ca836c9f38d5859c19b247f36795ea"
+    }
+  ],
+  "publication": "local only; no push or deployment performed"
+}

@@ -1,0 +1,17 @@
+{
+  "format": "seked-frustum",
+  "version": 1,
+  "dimensions": {
+    "lowerSide": "4",
+    "upperSide": "2",
+    "height": "6"
+  },
+  "view": {
+    "spread": 80,
+    "cut": 50,
+    "turn": 35,
+    "part": "all",
+    "step": 1,
+    "source": 102
+  }
+}

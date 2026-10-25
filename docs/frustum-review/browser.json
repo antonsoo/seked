@@ -1,0 +1,1100 @@
+{
+  "checkedAt": "2026-10-25T20:17:09.377Z",
+  "runtime": "v24.22.0",
+  "build": [
+    {
+      "file": "assets/frustum-C35Wu40j.js",
+      "bytes": 44802,
+      "sha256": "28eda7c36c12b07e43819f27558784ea17aa8242bb5d6cc570b6f228d56308d1"
+    },
+    {
+      "file": "assets/frustum-DyjMuzP-.css",
+      "bytes": 8725,
+      "sha256": "ee446236b1b33691b126027b1a8baca0700dae1425f9f74170edef33d9fcd443"
+    },
+    {
+      "file": "assets/index-BrkQG1dU.js",
+      "bytes": 48041,
+      "sha256": "8874fa715cce02f6baf2985af27fbb5e5ba74b7129462b94eebcf71850e6f17d"
+    },
+    {
+      "file": "assets/offline-CFKdRvGt.css",
+      "bytes": 13243,
+      "sha256": "be752abd38a2044c75f56ebdc15a3acf6ebb4bf6a4eb60dfe3939bd6f9d43daf"
+    },
+    {
+      "file": "assets/offline-CUWD3rJ1.js",
+      "bytes": 3725,
+      "sha256": "fff1ecfff580900c1b21441814a8f9c9d990fdbb12dcc508852b952e62162326"
+    },
+    {
+      "file": "favicon.svg",
+      "bytes": 256,
+      "sha256": "32e4ab26ffea7f23c1ad1124dd8bca04e8d94364ba884d63584070971fec26d1"
+    },
+    {
+      "file": "fonts/Atkinson-OFL.txt",
+      "bytes": 4431,
+      "sha256": "aca6a428580965d2297d1b718042dd427c2a9443ece3b0d02d758e161e0c4030"
+    },
+    {
+      "file": "fonts/AtkinsonHyperlegibleNext.ttf",
+      "bytes": 114552,
+      "sha256": "5a455d1cfa099b601ab70751bb9673e8fe1854dc4500c80e1a220d0d75e31745"
+    },
+    {
+      "file": "fonts/NotoSerif-OFL.txt",
+      "bytes": 4396,
+      "sha256": "cee9892f9f0cc8fe882c9e9537ee6a89621d86ee7ceaf70b02e2b2b1c25c061a"
+    },
+    {
+      "file": "fonts/NotoSerif-Regular.ttf",
+      "bytes": 444064,
+      "sha256": "5473d2e43bdd018ee124a4addba8091fd0a29894b121cbb741023af6549662b6"
+    },
+    {
+      "file": "frustum.html",
+      "bytes": 884,
+      "sha256": "16cb52ac801f37043302797a50a5feba22714ad70535024e7e670c335f8b8738"
+    },
+    {
+      "file": "index.html",
+      "bytes": 961,
+      "sha256": "6aef8cb6f773f9cf2845385e42f46460051143d843659c9d84eaa04aa53f59c4"
+    },
+    {
+      "file": "sources/chace2-036.jpg",
+      "bytes": 576581,
+      "sha256": "0e7528879facc085c3d3cfe22b74ade3c659ed68080004e2eb5c27fdfd93beb1"
+    },
+    {
+      "file": "sources/chace2-037.jpg",
+      "bytes": 538019,
+      "sha256": "6b29e709a7044f474a1ec597aa2395b0d8d1864604aa87ac0a317fa7a4991f48"
+    },
+    {
+      "file": "sources/chace2-203.jpg",
+      "bytes": 264876,
+      "sha256": "c52a4e957f04264fa75bd1ccdd526c2d9d712777794afe33d2a10aa349c0fa8c"
+    },
+    {
+      "file": "sources/chace2-204.jpg",
+      "bytes": 273194,
+      "sha256": "cc4c0c7697de156d08d485ec346c5a062d1c037bc4d83814c013c0d605deecce"
+    },
+    {
+      "file": "sources/chace2-205.jpg",
+      "bytes": 243426,
+      "sha256": "ca0596278bb1339a4a2f6e075c9762926f8aeac3255b1a7ee0871532037c2226"
+    },
+    {
+      "file": "sources/chace2-206.jpg",
+      "bytes": 288441,
+      "sha256": "f6607a68be30a8621657f322e65165b5fef7da7110a52b00a072d2b6e27bb40a"
+    },
+    {
+      "file": "sources/chace2-207.jpg",
+      "bytes": 236614,
+      "sha256": "889dee03a2d66b1907544c22e96010a1d9e7f795fb76d565eebe614acabb222b"
+    },
+    {
+      "file": "sources/chace2-208.jpg",
+      "bytes": 293519,
+      "sha256": "4f932fd801a585057d259848799d309553fbadf08949d07952adac700c992e22"
+    },
+    {
+      "file": "sources/chace2-209.jpg",
+      "bytes": 254598,
+      "sha256": "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96"
+    },
+    {
+      "file": "sources/chace2-210.jpg",
+      "bytes": 314779,
+      "sha256": "d1559d78cabd56b0b4980f64453a74d5d95111a6fe9ddf6808b05d20c2f3272e"
+    },
+    {
+      "file": "sources/chace2-211.jpg",
+      "bytes": 252674,
+      "sha256": "df82396555c8a0106ecd30aab7c8172c5f15ca3b1bf37aef6646f63c310c625b"
+    },
+    {
+      "file": "sources/chace2-212.jpg",
+      "bytes": 254164,
+      "sha256": "d379df918cd528360348d5f9f499204639d92edfcac6ab8a80bea17dc22ccb86"
+    },
+    {
+      "file": "sources/frustum/NOTICES.txt",
+      "bytes": 1578,
+      "sha256": "a1b9df02c3e52433c6715fc2201291b08f4cda655c13472a15e072174e6b97c7"
+    },
+    {
+      "file": "sources/frustum/touraeff-100.jpg",
+      "bytes": 464056,
+      "sha256": "e821f2e2e216f87bbeef0b05c871943214ebc8f9803074378b283202f42b635f"
+    },
+    {
+      "file": "sources/frustum/touraeff-101.jpg",
+      "bytes": 766367,
+      "sha256": "47e1aee3ed1e2db32b483bf02ba131d1bc2010dec24be0a07d8efc3a8e5aec5a"
+    },
+    {
+      "file": "sources/frustum/touraeff-102.jpg",
+      "bytes": 227119,
+      "sha256": "6c2345cbb8ab8b131a65adc4d857a3738fee341600cfbe33f9a8e4831733d56a"
+    },
+    {
+      "file": "sources/peet-100.jpg",
+      "bytes": 305619,
+      "sha256": "d9f3310ad89c4240019a8521d2996caa1cbfeb56ea1d5cbcf81f55b395ccf3c7"
+    },
+    {
+      "file": "sw.js",
+      "bytes": 5821,
+      "sha256": "be26aad547a291d55a4db6509b135147c9ca836c9f38d5859c19b247f36795ea"
+    }
+  ],
+  "configurations": [
+    {
+      "browser": "chromium",
+      "width": 1440,
+      "geometry": [
+        {
+          "dimensions": ["4", "2", "6"],
+          "total": "56",
+          "cut": 50,
+          "slice": {
+            "side": "3",
+            "area": "9",
+            "height": "3",
+            "scale": 35,
+            "x1": -52.5,
+            "x2": 52.5,
+            "z": 105,
+            "path": [122.5, 165, 227.5, 165],
+            "screenScale": [1.0285651408450704, 1.0285651408450704]
+          }
+        },
+        {
+          "dimensions": ["4", "2", "6"],
+          "total": "56",
+          "cut": 1,
+          "slice": {
+            "side": "199/50",
+            "area": "39601/2500",
+            "height": "3/50",
+            "scale": 35,
+            "x1": -69.65,
+            "x2": 69.65,
+            "z": 2.1,
+            "path": [105.35, 267.9, 244.65, 267.9],
+            "screenScale": [1.0285651408450704, 1.0285651408450704]
+          }
+        },
+        {
+          "dimensions": ["4", "2", "6"],
+          "total": "56",
+          "cut": 100,
+          "slice": {
+            "side": "2",
+            "area": "4",
+            "height": "6",
+            "scale": 35,
+            "x1": -35,
+            "x2": 35,
+            "z": 210,
+            "path": [140, 60, 210, 60],
+            "screenScale": [1.0285651408450704, 1.0285651408450704]
+          }
+        },
+        {
+          "dimensions": ["4", "3", "6"],
+          "total": "74",
+          "cut": 100,
+          "slice": {
+            "side": "3",
+            "area": "9",
+            "height": "6",
+            "scale": 35,
+            "x1": -52.5,
+            "x2": 52.5,
+            "z": 210,
+            "path": [122.5, 60, 227.5, 60],
+            "screenScale": [1.0285651408450704, 1.0285651408450704]
+          }
+        },
+        {
+          "dimensions": ["4", "4", "6"],
+          "total": "96",
+          "cut": 100,
+          "slice": {
+            "side": "4",
+            "area": "16",
+            "height": "6",
+            "scale": 35,
+            "x1": -70,
+            "x2": 70,
+            "z": 210,
+            "path": [105, 60, 245, 60],
+            "screenScale": [1.0285651408450704, 1.0285651408450704]
+          }
+        },
+        {
+          "dimensions": ["4", "0", "6"],
+          "total": "32",
+          "cut": 100,
+          "slice": {
+            "side": "0",
+            "area": "0",
+            "height": "6",
+            "scale": 35,
+            "x1": 0,
+            "x2": 0,
+            "z": 210,
+            "path": [175, 60, 175, 60],
+            "screenScale": [1.0285651408450704, 1.0285651408450704]
+          }
+        },
+        {
+          "dimensions": ["1/100", "0", "500"],
+          "total": "1/60",
+          "cut": 1,
+          "slice": {
+            "side": "99/10000",
+            "area": "9801/100000000",
+            "height": "5",
+            "scale": 0.42,
+            "x1": -0.002079,
+            "x2": 0.002079,
+            "z": 2.1,
+            "path": [174.998, 267.9, 175.002, 267.9],
+            "screenScale": [1.0285651408450704, 1.0285651408450704]
+          }
+        },
+        {
+          "dimensions": ["500", "499999/1000", "1/100"],
+          "total": "749998500001/300000000",
+          "cut": 1,
+          "slice": {
+            "side": "49999999/100000",
+            "area": "2499999900000001/10000000000",
+            "height": "1/10000",
+            "scale": 0.54,
+            "x1": -134.99999730000002,
+            "x2": 134.99999730000002,
+            "z": 0.000054000000000000005,
+            "path": [40, 270, 310, 270],
+            "screenScale": [1.0285651408450704, 1.0285651408450704]
+          }
+        },
+        {
+          "dimensions": ["123457/997", "65431/999", "123/997"],
+          "total": "1128006652054609559/989045910080973",
+          "cut": 1,
+          "slice": {
+            "side": "3068813866/24900075",
+            "area": "9417618544153865956/620013735005625",
+            "height": "123/99700",
+            "scale": 2.1804352932600013,
+            "x1": -134.3640543627292,
+            "x2": 134.3640543627292,
+            "z": 0.002690005426990774,
+            "path": [40.636, 269.997, 309.364, 269.997],
+            "screenScale": [1.0285651408450704, 1.0285651408450704]
+          }
+        },
+        {
+          "dimensions": ["7/2", "4/3", "9/4"],
+          "total": "673/48",
+          "cut": 1,
+          "slice": {
+            "side": "2087/600",
+            "area": "4355569/360000",
+            "height": "9/400",
+            "scale": 77.14285714285714,
+            "x1": -134.1642857142857,
+            "x2": 134.1642857142857,
+            "z": 1.7357142857142855,
+            "path": [40.836, 268.264, 309.164, 268.264],
+            "screenScale": [1.0285651408450704, 1.0285651408450704]
+          }
+        }
+      ],
+      "downloads": [
+        {
+          "name": "seked-frustum.json",
+          "bytes": 250,
+          "sha256": "bbadf70d3ac2b9495d5e69e38dba73788b45e3b375ceccf59f5ebf65222e51f2",
+          "path": "chromium-1440/seked-frustum.json"
+        },
+        {
+          "name": "seked-frustum.csv",
+          "bytes": 1158,
+          "sha256": "c6a4af9892c61cd76ee96f54784eadbb1977d21604a057bed9d2fa8714a6404d",
+          "path": "chromium-1440/seked-frustum.csv"
+        },
+        {
+          "name": "seked-frustum.svg",
+          "bytes": 160709,
+          "sha256": "5a43f07e63a16550d782a2999ae424f41c6c1592238145ba6a566f4ab6a9636d",
+          "path": "chromium-1440/seked-frustum.svg"
+        },
+        {
+          "name": "seked-frustum-reading.html",
+          "bytes": 2727719,
+          "sha256": "835944ef097c7deafbcce159effd5cd3f6138a46dd1abeea8c8149d6c70f3ebf",
+          "path": "chromium-1440/seked-frustum-reading.html"
+        }
+      ],
+      "axeViolations": 0,
+      "cachedFiles": [
+        "/seked/assets/frustum-C35Wu40j.js",
+        "/seked/assets/frustum-DyjMuzP-.css",
+        "/seked/assets/index-BrkQG1dU.js",
+        "/seked/assets/offline-CFKdRvGt.css",
+        "/seked/assets/offline-CUWD3rJ1.js",
+        "/seked/favicon.svg",
+        "/seked/fonts/Atkinson-OFL.txt",
+        "/seked/fonts/AtkinsonHyperlegibleNext.ttf",
+        "/seked/fonts/NotoSerif-OFL.txt",
+        "/seked/fonts/NotoSerif-Regular.ttf",
+        "/seked/frustum.html",
+        "/seked/index.html",
+        "/seked/sources/chace2-036.jpg",
+        "/seked/sources/chace2-037.jpg",
+        "/seked/sources/chace2-203.jpg",
+        "/seked/sources/chace2-204.jpg",
+        "/seked/sources/chace2-205.jpg",
+        "/seked/sources/chace2-206.jpg",
+        "/seked/sources/chace2-207.jpg",
+        "/seked/sources/chace2-208.jpg",
+        "/seked/sources/chace2-209.jpg",
+        "/seked/sources/chace2-210.jpg",
+        "/seked/sources/chace2-211.jpg",
+        "/seked/sources/chace2-212.jpg",
+        "/seked/sources/frustum/NOTICES.txt",
+        "/seked/sources/frustum/touraeff-100.jpg",
+        "/seked/sources/frustum/touraeff-101.jpg",
+        "/seked/sources/frustum/touraeff-102.jpg",
+        "/seked/sources/peet-100.jpg"
+      ],
+      "offline": {
+        "originStopped": true,
+        "reloadedVolume": "74",
+        "readingBytes": 2727707,
+        "sha256": "cafc9c721f6519fad0e65767af8bdfe13c36d2354ca03f35e7e537f55f3a6ca9"
+      },
+      "pageErrors": [],
+      "externalRequests": []
+    },
+    {
+      "browser": "chromium",
+      "width": 375,
+      "geometry": [
+        {
+          "dimensions": ["4", "2", "6"],
+          "total": "56",
+          "cut": 50,
+          "slice": {
+            "side": "3",
+            "area": "9",
+            "height": "3",
+            "scale": 35,
+            "x1": -52.5,
+            "x2": 52.5,
+            "z": 105,
+            "path": [122.5, 165, 227.5, 165],
+            "screenScale": [0.8571302816901408, 0.8571302816901408]
+          }
+        },
+        {
+          "dimensions": ["4", "2", "6"],
+          "total": "56",
+          "cut": 1,
+          "slice": {
+            "side": "199/50",
+            "area": "39601/2500",
+            "height": "3/50",
+            "scale": 35,
+            "x1": -69.65,
+            "x2": 69.65,
+            "z": 2.1,
+            "path": [105.35, 267.9, 244.65, 267.9],
+            "screenScale": [0.8571302816901408, 0.8571302816901408]
+          }
+        },
+        {
+          "dimensions": ["4", "2", "6"],
+          "total": "56",
+          "cut": 100,
+          "slice": {
+            "side": "2",
+            "area": "4",
+            "height": "6",
+            "scale": 35,
+            "x1": -35,
+            "x2": 35,
+            "z": 210,
+            "path": [140, 60, 210, 60],
+            "screenScale": [0.8571302816901408, 0.8571302816901408]
+          }
+        },
+        {
+          "dimensions": ["4", "3", "6"],
+          "total": "74",
+          "cut": 100,
+          "slice": {
+            "side": "3",
+            "area": "9",
+            "height": "6",
+            "scale": 35,
+            "x1": -52.5,
+            "x2": 52.5,
+            "z": 210,
+            "path": [122.5, 60, 227.5, 60],
+            "screenScale": [0.8571302816901408, 0.8571302816901408]
+          }
+        },
+        {
+          "dimensions": ["4", "4", "6"],
+          "total": "96",
+          "cut": 100,
+          "slice": {
+            "side": "4",
+            "area": "16",
+            "height": "6",
+            "scale": 35,
+            "x1": -70,
+            "x2": 70,
+            "z": 210,
+            "path": [105, 60, 245, 60],
+            "screenScale": [0.8571302816901408, 0.8571302816901408]
+          }
+        },
+        {
+          "dimensions": ["4", "0", "6"],
+          "total": "32",
+          "cut": 100,
+          "slice": {
+            "side": "0",
+            "area": "0",
+            "height": "6",
+            "scale": 35,
+            "x1": 0,
+            "x2": 0,
+            "z": 210,
+            "path": [175, 60, 175, 60],
+            "screenScale": [0.8571302816901408, 0.8571302816901408]
+          }
+        },
+        {
+          "dimensions": ["1/100", "0", "500"],
+          "total": "1/60",
+          "cut": 1,
+          "slice": {
+            "side": "99/10000",
+            "area": "9801/100000000",
+            "height": "5",
+            "scale": 0.42,
+            "x1": -0.002079,
+            "x2": 0.002079,
+            "z": 2.1,
+            "path": [174.998, 267.9, 175.002, 267.9],
+            "screenScale": [0.8571302816901408, 0.8571302816901408]
+          }
+        },
+        {
+          "dimensions": ["500", "499999/1000", "1/100"],
+          "total": "749998500001/300000000",
+          "cut": 1,
+          "slice": {
+            "side": "49999999/100000",
+            "area": "2499999900000001/10000000000",
+            "height": "1/10000",
+            "scale": 0.54,
+            "x1": -134.99999730000002,
+            "x2": 134.99999730000002,
+            "z": 0.000054000000000000005,
+            "path": [40, 270, 310, 270],
+            "screenScale": [0.8571302816901408, 0.8571302816901408]
+          }
+        },
+        {
+          "dimensions": ["123457/997", "65431/999", "123/997"],
+          "total": "1128006652054609559/989045910080973",
+          "cut": 1,
+          "slice": {
+            "side": "3068813866/24900075",
+            "area": "9417618544153865956/620013735005625",
+            "height": "123/99700",
+            "scale": 2.1804352932600013,
+            "x1": -134.3640543627292,
+            "x2": 134.3640543627292,
+            "z": 0.002690005426990774,
+            "path": [40.636, 269.997, 309.364, 269.997],
+            "screenScale": [0.8571302816901408, 0.8571302816901408]
+          }
+        },
+        {
+          "dimensions": ["7/2", "4/3", "9/4"],
+          "total": "673/48",
+          "cut": 1,
+          "slice": {
+            "side": "2087/600",
+            "area": "4355569/360000",
+            "height": "9/400",
+            "scale": 77.14285714285714,
+            "x1": -134.1642857142857,
+            "x2": 134.1642857142857,
+            "z": 1.7357142857142855,
+            "path": [40.836, 268.264, 309.164, 268.264],
+            "screenScale": [0.8571302816901408, 0.8571302816901408]
+          }
+        }
+      ],
+      "downloads": [
+        {
+          "name": "seked-frustum.json",
+          "bytes": 250,
+          "sha256": "bbadf70d3ac2b9495d5e69e38dba73788b45e3b375ceccf59f5ebf65222e51f2",
+          "path": "chromium-375/seked-frustum.json"
+        },
+        {
+          "name": "seked-frustum.csv",
+          "bytes": 1158,
+          "sha256": "c6a4af9892c61cd76ee96f54784eadbb1977d21604a057bed9d2fa8714a6404d",
+          "path": "chromium-375/seked-frustum.csv"
+        },
+        {
+          "name": "seked-frustum.svg",
+          "bytes": 160709,
+          "sha256": "5a43f07e63a16550d782a2999ae424f41c6c1592238145ba6a566f4ab6a9636d",
+          "path": "chromium-375/seked-frustum.svg"
+        },
+        {
+          "name": "seked-frustum-reading.html",
+          "bytes": 2727719,
+          "sha256": "835944ef097c7deafbcce159effd5cd3f6138a46dd1abeea8c8149d6c70f3ebf",
+          "path": "chromium-375/seked-frustum-reading.html"
+        }
+      ],
+      "axeViolations": 0,
+      "cachedFiles": [
+        "/seked/assets/frustum-C35Wu40j.js",
+        "/seked/assets/frustum-DyjMuzP-.css",
+        "/seked/assets/index-BrkQG1dU.js",
+        "/seked/assets/offline-CFKdRvGt.css",
+        "/seked/assets/offline-CUWD3rJ1.js",
+        "/seked/favicon.svg",
+        "/seked/fonts/Atkinson-OFL.txt",
+        "/seked/fonts/AtkinsonHyperlegibleNext.ttf",
+        "/seked/fonts/NotoSerif-OFL.txt",
+        "/seked/fonts/NotoSerif-Regular.ttf",
+        "/seked/frustum.html",
+        "/seked/index.html",
+        "/seked/sources/chace2-036.jpg",
+        "/seked/sources/chace2-037.jpg",
+        "/seked/sources/chace2-203.jpg",
+        "/seked/sources/chace2-204.jpg",
+        "/seked/sources/chace2-205.jpg",
+        "/seked/sources/chace2-206.jpg",
+        "/seked/sources/chace2-207.jpg",
+        "/seked/sources/chace2-208.jpg",
+        "/seked/sources/chace2-209.jpg",
+        "/seked/sources/chace2-210.jpg",
+        "/seked/sources/chace2-211.jpg",
+        "/seked/sources/chace2-212.jpg",
+        "/seked/sources/frustum/NOTICES.txt",
+        "/seked/sources/frustum/touraeff-100.jpg",
+        "/seked/sources/frustum/touraeff-101.jpg",
+        "/seked/sources/frustum/touraeff-102.jpg",
+        "/seked/sources/peet-100.jpg"
+      ],
+      "offline": {
+        "originStopped": true,
+        "reloadedVolume": "74",
+        "readingBytes": 2727707,
+        "sha256": "cafc9c721f6519fad0e65767af8bdfe13c36d2354ca03f35e7e537f55f3a6ca9"
+      },
+      "pageErrors": [],
+      "externalRequests": []
+    },
+    {
+      "browser": "firefox",
+      "width": 1440,
+      "geometry": [
+        {
+          "dimensions": ["4", "2", "6"],
+          "total": "56",
+          "cut": 50,
+          "slice": {
+            "side": "3",
+            "area": "9",
+            "height": "3",
+            "scale": 35,
+            "x1": -52.5,
+            "x2": 52.5,
+            "z": 105,
+            "path": [122.5, 165, 227.5, 165],
+            "screenScale": [1.0285714864730835, 1.0285714864730835]
+          }
+        },
+        {
+          "dimensions": ["4", "2", "6"],
+          "total": "56",
+          "cut": 1,
+          "slice": {
+            "side": "199/50",
+            "area": "39601/2500",
+            "height": "3/50",
+            "scale": 35,
+            "x1": -69.65,
+            "x2": 69.65,
+            "z": 2.1,
+            "path": [105.35, 267.9, 244.65, 267.9],
+            "screenScale": [1.0285714864730835, 1.0285714864730835]
+          }
+        },
+        {
+          "dimensions": ["4", "2", "6"],
+          "total": "56",
+          "cut": 100,
+          "slice": {
+            "side": "2",
+            "area": "4",
+            "height": "6",
+            "scale": 35,
+            "x1": -35,
+            "x2": 35,
+            "z": 210,
+            "path": [140, 60, 210, 60],
+            "screenScale": [1.0285714864730835, 1.0285714864730835]
+          }
+        },
+        {
+          "dimensions": ["4", "3", "6"],
+          "total": "74",
+          "cut": 100,
+          "slice": {
+            "side": "3",
+            "area": "9",
+            "height": "6",
+            "scale": 35,
+            "x1": -52.5,
+            "x2": 52.5,
+            "z": 210,
+            "path": [122.5, 60, 227.5, 60],
+            "screenScale": [1.0285714864730835, 1.0285714864730835]
+          }
+        },
+        {
+          "dimensions": ["4", "4", "6"],
+          "total": "96",
+          "cut": 100,
+          "slice": {
+            "side": "4",
+            "area": "16",
+            "height": "6",
+            "scale": 35,
+            "x1": -70,
+            "x2": 70,
+            "z": 210,
+            "path": [105, 60, 245, 60],
+            "screenScale": [1.0285714864730835, 1.0285714864730835]
+          }
+        },
+        {
+          "dimensions": ["4", "0", "6"],
+          "total": "32",
+          "cut": 100,
+          "slice": {
+            "side": "0",
+            "area": "0",
+            "height": "6",
+            "scale": 35,
+            "x1": 0,
+            "x2": 0,
+            "z": 210,
+            "path": [175, 60, 175, 60],
+            "screenScale": [1.0285714864730835, 1.0285714864730835]
+          }
+        },
+        {
+          "dimensions": ["1/100", "0", "500"],
+          "total": "1/60",
+          "cut": 1,
+          "slice": {
+            "side": "99/10000",
+            "area": "9801/100000000",
+            "height": "5",
+            "scale": 0.42,
+            "x1": -0.002079,
+            "x2": 0.002079,
+            "z": 2.1,
+            "path": [174.998, 267.9, 175.002, 267.9],
+            "screenScale": [1.0285714864730835, 1.0285714864730835]
+          }
+        },
+        {
+          "dimensions": ["500", "499999/1000", "1/100"],
+          "total": "749998500001/300000000",
+          "cut": 1,
+          "slice": {
+            "side": "49999999/100000",
+            "area": "2499999900000001/10000000000",
+            "height": "1/10000",
+            "scale": 0.54,
+            "x1": -134.99999730000002,
+            "x2": 134.99999730000002,
+            "z": 0.000054000000000000005,
+            "path": [40, 270, 310, 270],
+            "screenScale": [1.0285714864730835, 1.0285714864730835]
+          }
+        },
+        {
+          "dimensions": ["123457/997", "65431/999", "123/997"],
+          "total": "1128006652054609559/989045910080973",
+          "cut": 1,
+          "slice": {
+            "side": "3068813866/24900075",
+            "area": "9417618544153865956/620013735005625",
+            "height": "123/99700",
+            "scale": 2.1804352932600013,
+            "x1": -134.3640543627292,
+            "x2": 134.3640543627292,
+            "z": 0.002690005426990774,
+            "path": [40.636, 269.997, 309.364, 269.997],
+            "screenScale": [1.0285714864730835, 1.0285714864730835]
+          }
+        },
+        {
+          "dimensions": ["7/2", "4/3", "9/4"],
+          "total": "673/48",
+          "cut": 1,
+          "slice": {
+            "side": "2087/600",
+            "area": "4355569/360000",
+            "height": "9/400",
+            "scale": 77.14285714285714,
+            "x1": -134.1642857142857,
+            "x2": 134.1642857142857,
+            "z": 1.7357142857142855,
+            "path": [40.836, 268.264, 309.164, 268.264],
+            "screenScale": [1.0285714864730835, 1.0285714864730835]
+          }
+        }
+      ],
+      "downloads": [
+        {
+          "name": "seked-frustum.json",
+          "bytes": 250,
+          "sha256": "bbadf70d3ac2b9495d5e69e38dba73788b45e3b375ceccf59f5ebf65222e51f2",
+          "path": "firefox-1440/seked-frustum.json"
+        },
+        {
+          "name": "seked-frustum.csv",
+          "bytes": 1158,
+          "sha256": "c6a4af9892c61cd76ee96f54784eadbb1977d21604a057bed9d2fa8714a6404d",
+          "path": "firefox-1440/seked-frustum.csv"
+        },
+        {
+          "name": "seked-frustum.svg",
+          "bytes": 160709,
+          "sha256": "5a43f07e63a16550d782a2999ae424f41c6c1592238145ba6a566f4ab6a9636d",
+          "path": "firefox-1440/seked-frustum.svg"
+        },
+        {
+          "name": "seked-frustum-reading.html",
+          "bytes": 2727719,
+          "sha256": "835944ef097c7deafbcce159effd5cd3f6138a46dd1abeea8c8149d6c70f3ebf",
+          "path": "firefox-1440/seked-frustum-reading.html"
+        }
+      ],
+      "axeViolations": 0,
+      "cachedFiles": [
+        "/seked/assets/frustum-C35Wu40j.js",
+        "/seked/assets/frustum-DyjMuzP-.css",
+        "/seked/assets/index-BrkQG1dU.js",
+        "/seked/assets/offline-CFKdRvGt.css",
+        "/seked/assets/offline-CUWD3rJ1.js",
+        "/seked/favicon.svg",
+        "/seked/fonts/Atkinson-OFL.txt",
+        "/seked/fonts/AtkinsonHyperlegibleNext.ttf",
+        "/seked/fonts/NotoSerif-OFL.txt",
+        "/seked/fonts/NotoSerif-Regular.ttf",
+        "/seked/frustum.html",
+        "/seked/index.html",
+        "/seked/sources/chace2-036.jpg",
+        "/seked/sources/chace2-037.jpg",
+        "/seked/sources/chace2-203.jpg",
+        "/seked/sources/chace2-204.jpg",
+        "/seked/sources/chace2-205.jpg",
+        "/seked/sources/chace2-206.jpg",
+        "/seked/sources/chace2-207.jpg",
+        "/seked/sources/chace2-208.jpg",
+        "/seked/sources/chace2-209.jpg",
+        "/seked/sources/chace2-210.jpg",
+        "/seked/sources/chace2-211.jpg",
+        "/seked/sources/chace2-212.jpg",
+        "/seked/sources/frustum/NOTICES.txt",
+        "/seked/sources/frustum/touraeff-100.jpg",
+        "/seked/sources/frustum/touraeff-101.jpg",
+        "/seked/sources/frustum/touraeff-102.jpg",
+        "/seked/sources/peet-100.jpg"
+      ],
+      "offline": {
+        "originStopped": true,
+        "reloadedVolume": "74",
+        "readingBytes": 2727707,
+        "sha256": "af584fa31fe2465baa0a24d8fa36c3a4250abf975bb5a9fc64db6a950271de2c"
+      },
+      "pageErrors": [],
+      "externalRequests": []
+    },
+    {
+      "browser": "firefox",
+      "width": 375,
+      "geometry": [
+        {
+          "dimensions": ["4", "2", "6"],
+          "total": "56",
+          "cut": 50,
+          "slice": {
+            "side": "3",
+            "area": "9",
+            "height": "3",
+            "scale": 35,
+            "x1": -52.5,
+            "x2": 52.5,
+            "z": 105,
+            "path": [122.5, 165, 227.5, 165],
+            "screenScale": [0.8571361303329468, 0.8571361303329468]
+          }
+        },
+        {
+          "dimensions": ["4", "2", "6"],
+          "total": "56",
+          "cut": 1,
+          "slice": {
+            "side": "199/50",
+            "area": "39601/2500",
+            "height": "3/50",
+            "scale": 35,
+            "x1": -69.65,
+            "x2": 69.65,
+            "z": 2.1,
+            "path": [105.35, 267.9, 244.65, 267.9],
+            "screenScale": [0.8571361303329468, 0.8571361303329468]
+          }
+        },
+        {
+          "dimensions": ["4", "2", "6"],
+          "total": "56",
+          "cut": 100,
+          "slice": {
+            "side": "2",
+            "area": "4",
+            "height": "6",
+            "scale": 35,
+            "x1": -35,
+            "x2": 35,
+            "z": 210,
+            "path": [140, 60, 210, 60],
+            "screenScale": [0.8571361303329468, 0.8571361303329468]
+          }
+        },
+        {
+          "dimensions": ["4", "3", "6"],
+          "total": "74",
+          "cut": 100,
+          "slice": {
+            "side": "3",
+            "area": "9",
+            "height": "6",
+            "scale": 35,
+            "x1": -52.5,
+            "x2": 52.5,
+            "z": 210,
+            "path": [122.5, 60, 227.5, 60],
+            "screenScale": [0.8571361303329468, 0.8571361303329468]
+          }
+        },
+        {
+          "dimensions": ["4", "4", "6"],
+          "total": "96",
+          "cut": 100,
+          "slice": {
+            "side": "4",
+            "area": "16",
+            "height": "6",
+            "scale": 35,
+            "x1": -70,
+            "x2": 70,
+            "z": 210,
+            "path": [105, 60, 245, 60],
+            "screenScale": [0.8571361303329468, 0.8571361303329468]
+          }
+        },
+        {
+          "dimensions": ["4", "0", "6"],
+          "total": "32",
+          "cut": 100,
+          "slice": {
+            "side": "0",
+            "area": "0",
+            "height": "6",
+            "scale": 35,
+            "x1": 0,
+            "x2": 0,
+            "z": 210,
+            "path": [175, 60, 175, 60],
+            "screenScale": [0.8571361303329468, 0.8571361303329468]
+          }
+        },
+        {
+          "dimensions": ["1/100", "0", "500"],
+          "total": "1/60",
+          "cut": 1,
+          "slice": {
+            "side": "99/10000",
+            "area": "9801/100000000",
+            "height": "5",
+            "scale": 0.42,
+            "x1": -0.002079,
+            "x2": 0.002079,
+            "z": 2.1,
+            "path": [174.998, 267.9, 175.002, 267.9],
+            "screenScale": [0.8571361303329468, 0.8571361303329468]
+          }
+        },
+        {
+          "dimensions": ["500", "499999/1000", "1/100"],
+          "total": "749998500001/300000000",
+          "cut": 1,
+          "slice": {
+            "side": "49999999/100000",
+            "area": "2499999900000001/10000000000",
+            "height": "1/10000",
+            "scale": 0.54,
+            "x1": -134.99999730000002,
+            "x2": 134.99999730000002,
+            "z": 0.000054000000000000005,
+            "path": [40, 270, 310, 270],
+            "screenScale": [0.8571361303329468, 0.8571361303329468]
+          }
+        },
+        {
+          "dimensions": ["123457/997", "65431/999", "123/997"],
+          "total": "1128006652054609559/989045910080973",
+          "cut": 1,
+          "slice": {
+            "side": "3068813866/24900075",
+            "area": "9417618544153865956/620013735005625",
+            "height": "123/99700",
+            "scale": 2.1804352932600013,
+            "x1": -134.3640543627292,
+            "x2": 134.3640543627292,
+            "z": 0.002690005426990774,
+            "path": [40.636, 269.997, 309.364, 269.997],
+            "screenScale": [0.8571361303329468, 0.8571361303329468]
+          }
+        },
+        {
+          "dimensions": ["7/2", "4/3", "9/4"],
+          "total": "673/48",
+          "cut": 1,
+          "slice": {
+            "side": "2087/600",
+            "area": "4355569/360000",
+            "height": "9/400",
+            "scale": 77.14285714285714,
+            "x1": -134.1642857142857,
+            "x2": 134.1642857142857,
+            "z": 1.7357142857142855,
+            "path": [40.836, 268.264, 309.164, 268.264],
+            "screenScale": [0.8571361303329468, 0.8571361303329468]
+          }
+        }
+      ],
+      "downloads": [
+        {
+          "name": "seked-frustum.json",
+          "bytes": 250,
+          "sha256": "bbadf70d3ac2b9495d5e69e38dba73788b45e3b375ceccf59f5ebf65222e51f2",
+          "path": "firefox-375/seked-frustum.json"
+        },
+        {
+          "name": "seked-frustum.csv",
+          "bytes": 1158,
+          "sha256": "c6a4af9892c61cd76ee96f54784eadbb1977d21604a057bed9d2fa8714a6404d",
+          "path": "firefox-375/seked-frustum.csv"
+        },
+        {
+          "name": "seked-frustum.svg",
+          "bytes": 160709,
+          "sha256": "5a43f07e63a16550d782a2999ae424f41c6c1592238145ba6a566f4ab6a9636d",
+          "path": "firefox-375/seked-frustum.svg"
+        },
+        {
+          "name": "seked-frustum-reading.html",
+          "bytes": 2727719,
+          "sha256": "835944ef097c7deafbcce159effd5cd3f6138a46dd1abeea8c8149d6c70f3ebf",
+          "path": "firefox-375/seked-frustum-reading.html"
+        }
+      ],
+      "axeViolations": 0,
+      "cachedFiles": [
+        "/seked/assets/frustum-C35Wu40j.js",
+        "/seked/assets/frustum-DyjMuzP-.css",
+        "/seked/assets/index-BrkQG1dU.js",
+        "/seked/assets/offline-CFKdRvGt.css",
+        "/seked/assets/offline-CUWD3rJ1.js",
+        "/seked/favicon.svg",
+        "/seked/fonts/Atkinson-OFL.txt",
+        "/seked/fonts/AtkinsonHyperlegibleNext.ttf",
+        "/seked/fonts/NotoSerif-OFL.txt",
+        "/seked/fonts/NotoSerif-Regular.ttf",
+        "/seked/frustum.html",
+        "/seked/index.html",
+        "/seked/sources/chace2-036.jpg",
+        "/seked/sources/chace2-037.jpg",
+        "/seked/sources/chace2-203.jpg",
+        "/seked/sources/chace2-204.jpg",
+        "/seked/sources/chace2-205.jpg",
+        "/seked/sources/chace2-206.jpg",
+        "/seked/sources/chace2-207.jpg",
+        "/seked/sources/chace2-208.jpg",
+        "/seked/sources/chace2-209.jpg",
+        "/seked/sources/chace2-210.jpg",
+        "/seked/sources/chace2-211.jpg",
+        "/seked/sources/chace2-212.jpg",
+        "/seked/sources/frustum/NOTICES.txt",
+        "/seked/sources/frustum/touraeff-100.jpg",
+        "/seked/sources/frustum/touraeff-101.jpg",
+        "/seked/sources/frustum/touraeff-102.jpg",
+        "/seked/sources/peet-100.jpg"
+      ],
+      "offline": {
+        "originStopped": true,
+        "reloadedVolume": "74",
+        "readingBytes": 2727707,
+        "sha256": "af584fa31fe2465baa0a24d8fa36c3a4250abf975bb5a9fc64db6a950271de2c"
+      },
+      "pageErrors": [],
+      "externalRequests": []
+    }
+  ],
+  "failures": [
+    {
+      "browser": "chromium",
+      "substitutedJPEGRejected": true,
+      "completeWorkerInstallRejected": true,
+      "downloadPrevented": true
+    },
+    {
+      "browser": "firefox",
+      "substitutedJPEGRejected": true,
+      "completeWorkerInstallRejected": true,
+      "downloadPrevented": true
+    }
+  ]
+}

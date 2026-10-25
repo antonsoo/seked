@@ -4,6 +4,40 @@ Application code, new prose and calculated SVG illustrations are MIT-licensed.
 The historical page images and fonts have the separate provenance below.
 No modern museum photograph is bundled.
 
+## Touraeff, 1917: Moscow problem 14
+
+B. Touraeff, “The Volume of the Truncated Pyramid in Egyptian Mathematics”,
+_Ancient Egypt_ (1917), pp. 100–102.
+[Complete digitized volume](https://archive.org/details/in.ernet.dli.2015.107209).
+This is a preliminary publication by Boris Turaev, preceding Struve's complete
+1930 edition and its conventional problem numbering. The original 1917 article
+is public domain; Turaev died in 1920. The app's short English quotations use
+the printed 1917 translation, explicitly credited. New explanation, diagrams
+and mathematical implementation are MIT-licensed.
+
+| Retained file                      | Printed page | PDF page | Archive leaf |
+| ---------------------------------- | -----------: | -------: | -----------: |
+| `sources/frustum/touraeff-100.jpg` |          100 |      115 |          114 |
+| `sources/frustum/touraeff-101.jpg` |          101 |      116 |          115 |
+| `sources/frustum/touraeff-102.jpg` |          102 |      117 |          116 |
+
+The exact 10,659,795-byte PDF is
+`2015.107209.Ancient-Egypt-Vol4.pdf`, SHA-256
+`fb67b130567838faa9a0486afddb6e0209a367d4baac108b2dde0fe258d8a5b2`.
+Each complete page was rendered at a maximum dimension of 2,200 pixels using
+Poppler 24.02.0 and JPEG quality 90. No crop, tonal correction, restoration or
+redrawing was applied. The historical photograph on p. 101 has severe tonal
+loss in this digitization; the p. 100 transcription is separate editorial
+evidence. Its old column labels and problem counts remain visible.
+
+`src/frustum-sources.json` records the original PDF identity, retained file
+hashes and exact rendering command. `scripts/frustum-sources.py` reproduces the
+images; the viewer and saved HTML check their original JPEG bytes before use.
+The saved PDF can be checked by extracting those same JPEGs. The schematic number
+signs and dissection are modern diagrams, not recovered papyrus illustrations.
+The one-third pyramid-volume theorem is an explicit mathematical premise; no
+ancient derivation or physical construction method is attributed to these pages.
+
 ## Chace, Bull and Manning, 1929
 
 Arnold Buffum Chace, Ludlow Bull and Henry Parker Manning,

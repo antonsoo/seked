@@ -1,0 +1,43 @@
+{
+  "checkedAt": "2026-10-25T20:17:09.223Z",
+  "oldEdition": "cd840675fefd4409de05a2d0a4c4c8f183138757ed952147c96aa8a443e834f5",
+  "newEdition": "57cd3517598495a4d2a50a6f2b5c206141e5aa07fca3c2835436b7d4a0c6a36f",
+  "cases": [
+    {
+      "browser": "chromium",
+      "scenario": "held-new-source",
+      "heldMs": 8507,
+      "pendingStatus": "Preparing the offline reading…",
+      "newEditionComplete": true,
+      "onlyNewCacheRemains": true,
+      "newRoomAndSourceSurviveStoppedOrigin": true
+    },
+    {
+      "browser": "chromium",
+      "scenario": "substituted-new-source",
+      "pendingStatus": "A different offline edition is saved. Reload online to finish updating.",
+      "previousCompleteEditionRetained": true,
+      "newEditionComplete": true,
+      "onlyNewCacheRemains": true,
+      "newRoomAndSourceSurviveStoppedOrigin": true
+    },
+    {
+      "browser": "firefox",
+      "scenario": "held-new-source",
+      "heldMs": 8506,
+      "pendingStatus": "Preparing the offline reading…",
+      "newEditionComplete": true,
+      "onlyNewCacheRemains": true,
+      "newRoomAndSourceSurviveStoppedOrigin": true
+    },
+    {
+      "browser": "firefox",
+      "scenario": "substituted-new-source",
+      "pendingStatus": "Offline download unavailable; reading still works online",
+      "previousCompleteEditionRetained": true,
+      "newEditionComplete": true,
+      "onlyNewCacheRemains": true,
+      "newRoomAndSourceSurviveStoppedOrigin": true
+    }
+  ]
+}
