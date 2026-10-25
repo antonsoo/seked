@@ -44,7 +44,7 @@ export const frustumSteps = [
     quote: "take 28 twice, which gives 56",
     equation: "28 × 2 = 56",
     result: "56",
-    note: "The final number is a volume: 56 cubic units in the square-frustum interpretation. This is the surviving numerical calculation. The nine-piece dissection below is a separate modern explanation of why a general rule works.",
+    note: "The final number is a volume: 56 cubic units in the square-frustum interpretation. This is the surviving numerical calculation. The nine-piece dissection is a separate modern explanation of why a general rule works.",
     page: 101,
   },
 ] as const;
