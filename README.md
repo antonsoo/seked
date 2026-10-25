@@ -40,10 +40,10 @@ modern dissection: the papyrus example supplies no derivation. The digitized
 photograph's severe tonal loss is visible and explicitly described.
 
 Save a complete illustrated reading, font-embedded SVG, exact CSV or editable
-JSON. Both rooms share the integrity-checked offline edition. The new room is
-**verified locally; these commits have not been pushed or deployed**. Start
-`npm run dev` as below and open
-`http://127.0.0.1:4370/seked/frustum.html#pieces`.
+JSON. Both rooms share the integrity-checked offline edition. Open the
+**[published dissection](https://antonsoo.github.io/seked/frustum.html#pieces)**.
+Its [publication record](docs/frustum-publication.md) separates the fresh build,
+exact hosted files and real public browser review.
 
 [Source and geometry](docs/frustum-model.md) · [Direct review](docs/frustum-review.md) ·
 [Saved HTML reading, gzip-compressed](examples/frustum-reading.html.gz) ·

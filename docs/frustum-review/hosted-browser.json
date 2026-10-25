@@ -1,0 +1,131 @@
+{
+  "checkedAt": "2026-10-25T20:30:22.755Z",
+  "base": "https://antonsoo.github.io/seked/",
+  "expectedEdition": "57cd3517598495a4d2a50a6f2b5c206141e5aa07fca3c2835436b7d4a0c6a36f",
+  "configurations": [
+    {
+      "browser": "chromium",
+      "version": "153.0.8010.12",
+      "width": 1440,
+      "downloads": [
+        {
+          "file": "seked-frustum.json",
+          "bytes": 251,
+          "sha256": "547d98c4803b9e69b288001c46b4f798d4d39ead0ddb36648665959c196cba5b"
+        },
+        {
+          "file": "seked-frustum.csv",
+          "bytes": 1141,
+          "sha256": "84bdc278fa1ccb60b2ddf5a9e52ec76903376d1c55c36130c0a79ea8e9a09dd8"
+        },
+        {
+          "file": "seked-frustum.svg",
+          "bytes": 160709,
+          "sha256": "bf696efc08de41e9ed160451ec49e1d7be2cb67c63fc3c7ad77fcad0d8dcd235"
+        },
+        {
+          "file": "seked-frustum-reading.html",
+          "bytes": 2727673,
+          "sha256": "2a4c35356b8e3bb57dd08a3dc489696a162a48503272aa2cf6c17855ffba3cf7"
+        }
+      ],
+      "currentCache": "seked-57cd3517598495a4d2a50a6f2b5c206141e5aa07fca3c2835436b7d4a0c6a36f",
+      "cachedFiles": 29,
+      "offlineNavigationAndReload": true,
+      "pageErrors": []
+    },
+    {
+      "browser": "chromium",
+      "version": "153.0.8010.12",
+      "width": 375,
+      "downloads": [
+        {
+          "file": "seked-frustum.json",
+          "bytes": 251,
+          "sha256": "547d98c4803b9e69b288001c46b4f798d4d39ead0ddb36648665959c196cba5b"
+        },
+        {
+          "file": "seked-frustum.csv",
+          "bytes": 1141,
+          "sha256": "84bdc278fa1ccb60b2ddf5a9e52ec76903376d1c55c36130c0a79ea8e9a09dd8"
+        },
+        {
+          "file": "seked-frustum.svg",
+          "bytes": 160709,
+          "sha256": "bf696efc08de41e9ed160451ec49e1d7be2cb67c63fc3c7ad77fcad0d8dcd235"
+        },
+        {
+          "file": "seked-frustum-reading.html",
+          "bytes": 2727673,
+          "sha256": "2a4c35356b8e3bb57dd08a3dc489696a162a48503272aa2cf6c17855ffba3cf7"
+        }
+      ],
+      "currentCache": "seked-57cd3517598495a4d2a50a6f2b5c206141e5aa07fca3c2835436b7d4a0c6a36f",
+      "cachedFiles": 29,
+      "offlineNavigationAndReload": true,
+      "pageErrors": []
+    },
+    {
+      "browser": "firefox",
+      "version": "155.0",
+      "width": 1440,
+      "downloads": [
+        {
+          "file": "seked-frustum.json",
+          "bytes": 251,
+          "sha256": "547d98c4803b9e69b288001c46b4f798d4d39ead0ddb36648665959c196cba5b"
+        },
+        {
+          "file": "seked-frustum.csv",
+          "bytes": 1141,
+          "sha256": "84bdc278fa1ccb60b2ddf5a9e52ec76903376d1c55c36130c0a79ea8e9a09dd8"
+        },
+        {
+          "file": "seked-frustum.svg",
+          "bytes": 160709,
+          "sha256": "bf696efc08de41e9ed160451ec49e1d7be2cb67c63fc3c7ad77fcad0d8dcd235"
+        },
+        {
+          "file": "seked-frustum-reading.html",
+          "bytes": 2727673,
+          "sha256": "2a4c35356b8e3bb57dd08a3dc489696a162a48503272aa2cf6c17855ffba3cf7"
+        }
+      ],
+      "currentCache": "seked-57cd3517598495a4d2a50a6f2b5c206141e5aa07fca3c2835436b7d4a0c6a36f",
+      "cachedFiles": 29,
+      "offlineNavigationAndReload": true,
+      "pageErrors": []
+    },
+    {
+      "browser": "firefox",
+      "version": "155.0",
+      "width": 375,
+      "downloads": [
+        {
+          "file": "seked-frustum.json",
+          "bytes": 251,
+          "sha256": "547d98c4803b9e69b288001c46b4f798d4d39ead0ddb36648665959c196cba5b"
+        },
+        {
+          "file": "seked-frustum.csv",
+          "bytes": 1141,
+          "sha256": "84bdc278fa1ccb60b2ddf5a9e52ec76903376d1c55c36130c0a79ea8e9a09dd8"
+        },
+        {
+          "file": "seked-frustum.svg",
+          "bytes": 160709,
+          "sha256": "bf696efc08de41e9ed160451ec49e1d7be2cb67c63fc3c7ad77fcad0d8dcd235"
+        },
+        {
+          "file": "seked-frustum-reading.html",
+          "bytes": 2727673,
+          "sha256": "2a4c35356b8e3bb57dd08a3dc489696a162a48503272aa2cf6c17855ffba3cf7"
+        }
+      ],
+      "currentCache": "seked-57cd3517598495a4d2a50a6f2b5c206141e5aa07fca3c2835436b7d4a0c6a36f",
+      "cachedFiles": 29,
+      "offlineNavigationAndReload": true,
+      "pageErrors": []
+    }
+  ]
+}

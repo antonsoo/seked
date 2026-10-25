@@ -138,5 +138,5 @@ slice and recorded-example quantities. JSON reopens the editable state.
 
 Both rooms and every retained source belong to one generated offline edition.
 The footer's readiness requires the matching edition and complete cache. It
-does not stand for publication: the new room has separate local verification
-and has not been pushed or deployed in this change.
+does not stand for publication. The separate [publication record](frustum-publication.md)
+identifies the hosted build and public browser review.

@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased — 2026-10-25
+## 2026-10-25
 
 - A square-frustum companion for Moscow papyrus 14: nine-piece dissection,
   fixed-scale separation and rotation, fractional dimensions, horizontal cuts,
@@ -11,7 +11,8 @@
 - Embedded-source HTML, printable PDF example, font-embedded SVG, exact CSV,
   editable JSON, shareable settings and a complete two-room offline edition.
 - Independent mesh/integration verification, native Chromium/Firefox workflows
-  and real one-room-to-two-room cache upgrades. Local source only; not deployed.
+  and real one-room-to-two-room cache upgrades. Published on Pages with all 30
+  hosted files and public browser/offline journeys independently verified.
 
 ## 0.1.0 — 2026-10-21
 

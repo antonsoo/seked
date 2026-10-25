@@ -1,7 +1,8 @@
 # Square-frustum workshop: direct review
 
-Reviewed on 2026-10-25. The new room is local source, not a deployed edition.
-No push, Pages update, registry release or CI result is claimed.
+Local review recorded on 2026-10-25, before publication. This document retains
+the original local evidence; the subsequent [publication record](frustum-publication.md)
+identifies the pushed source, Pages commit and separate public browser review.
 
 ## Result
 
