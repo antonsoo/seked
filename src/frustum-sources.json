@@ -1,0 +1,39 @@
+{
+  "title": "The Volume of the Truncated Pyramid in Egyptian Mathematics",
+  "author": "B. Touraeff",
+  "journal": "Ancient Egypt",
+  "year": 1917,
+  "pages": "100-102",
+  "archive": "in.ernet.dli.2015.107209",
+  "pdf": "2015.107209.Ancient-Egypt-Vol4.pdf",
+  "pdfSha256": "fb67b130567838faa9a0486afddb6e0209a367d4baac108b2dde0fe258d8a5b2",
+  "pdfBytes": 10659795,
+  "render": "pdftoppm -f 115 -l 117 -scale-to 2200 -jpeg -jpegopt quality=90",
+  "renderer": "pdftoppm version 24.02.0",
+  "images": [
+    {
+      "file": "touraeff-100.jpg",
+      "page": 100,
+      "pdfPage": 115,
+      "archiveLeaf": 114,
+      "bytes": 464056,
+      "sha256": "e821f2e2e216f87bbeef0b05c871943214ebc8f9803074378b283202f42b635f"
+    },
+    {
+      "file": "touraeff-101.jpg",
+      "page": 101,
+      "pdfPage": 116,
+      "archiveLeaf": 115,
+      "bytes": 766367,
+      "sha256": "47e1aee3ed1e2db32b483bf02ba131d1bc2010dec24be0a07d8efc3a8e5aec5a"
+    },
+    {
+      "file": "touraeff-102.jpg",
+      "page": 102,
+      "pdfPage": 117,
+      "archiveLeaf": 116,
+      "bytes": 227119,
+      "sha256": "6c2345cbb8ab8b131a65adc4d857a3738fee341600cfbe33f9a8e4831733d56a"
+    }
+  ]
+}
