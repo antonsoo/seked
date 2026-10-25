@@ -22,6 +22,7 @@ export default defineConfig(async ({ command }) => {
     ...(await filesIn("src")),
     ...(await filesIn("public")),
     "index.html",
+    "frustum.html",
     "vite.config.ts",
     "tsconfig.json",
     "package.json",
@@ -37,7 +38,7 @@ export default defineConfig(async ({ command }) => {
     base,
     build: {
       rollupOptions: {
-        input: "index.html",
+        input: ["index.html", "frustum.html"],
       },
     },
     define: { __SEKED_EDITION__: JSON.stringify(edition) },

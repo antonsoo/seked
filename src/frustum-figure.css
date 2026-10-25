@@ -1,0 +1,78 @@
+svg text {
+  font-family: Atkinson, sans-serif;
+  font-size: 16px;
+  fill: #242c2a;
+}
+svg .plate-label {
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  fill: #535a51;
+}
+svg .piece {
+  stroke: #34433d;
+  stroke-width: 1.2;
+  stroke-linejoin: round;
+}
+svg .core {
+  fill: #d7bd7b;
+}
+svg .wedges {
+  fill: #8ab4bf;
+}
+svg .corners {
+  fill: #c98573;
+}
+svg .faded {
+  opacity: 0.14;
+}
+svg .cut-plane {
+  fill: #f7f5ef;
+  fill-opacity: 0.15;
+  stroke: #242c2a;
+  stroke-width: 2;
+  stroke-dasharray: 6 4;
+}
+svg .solid-dimension {
+  fill: none;
+  stroke: #242c2a;
+  stroke-width: 3;
+}
+svg .scale-bar {
+  fill: none;
+  stroke: #242c2a;
+  stroke-width: 1.5;
+}
+svg .section-shape {
+  fill: #e6e9df;
+  stroke: #34433d;
+  stroke-width: 1.5;
+}
+svg .section-axis {
+  stroke: #777e70;
+  stroke-dasharray: 4 5;
+}
+svg .section-cut {
+  stroke: #9b3d2f;
+  stroke-width: 3;
+}
+svg .area-lower {
+  fill: #e6e9df;
+  stroke: #34433d;
+}
+svg .area-product {
+  fill: #8ab4bf;
+  stroke: #34433d;
+}
+svg .area-upper {
+  fill: #d7bd7b;
+  stroke: #34433d;
+}
+svg .plus {
+  font-size: 30px;
+}
+svg .number-sign {
+  stroke: #242c2a;
+  fill: none;
+  stroke-width: 2;
+  stroke-linecap: round;
+}
