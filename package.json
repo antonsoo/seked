@@ -4,7 +4,7 @@
   "private": true,
   "description": "Read the pyramid-slope problems of the Rhind papyrus through measured drawings, exact fractions and the printed evidence.",
   "type": "module",
-  "author": "Anton Soloviev <anton@praviel.com>",
+  "author": "Anthony Mercer <anthony@praviel.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

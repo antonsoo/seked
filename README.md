@@ -208,5 +208,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-Code and new illustrations: [MIT](LICENSE), Anton Soloviev, 2026.
+Code and new illustrations: [MIT](LICENSE), Anthony Mercer, 2026.
 Historical pages and fonts: [separate notices](THIRD_PARTY.md).
