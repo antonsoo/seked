@@ -3,7 +3,7 @@
 **One cubit up. How far inward?** Read the Rhind papyrus's pyramid-slope problems
 through exact fractions, proportional drawings and the printed evidence.
 
-[![MIT](https://img.shields.io/badge/license-MIT-242c2a)](LICENSE)
+[![PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/license-PolyForm%20Noncommercial-242c2a)](LICENSE)
 [![Live reading](https://img.shields.io/badge/read-Seked-9b3d2f)](https://antonsoo.github.io/seked/)
 
 Problem 59 states one pair of dimensions, works with the opposite pair, and
@@ -208,5 +208,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-Code and new illustrations: [MIT](LICENSE), Anthony Mercer, 2026.
+New versions are released under the [PolyForm Noncommercial License 1.0.0](LICENSE). It is free for any noncommercial purpose, including personal study, teaching and research, and for use by charities, schools, universities, research organizations and government institutions. Commercial use needs written permission from Anthony Mercer (anthony@praviel.com). Versions up to commit [`9e8a95b`](https://github.com/antonsoo/seked/tree/9e8a95b) (2026-11-01) were released under the MIT License, and copies of those versions keep it.
+
+Code and new illustrations: [PolyForm Noncommercial 1.0.0](LICENSE), Anthony Mercer, 2026.
 Historical pages and fonts: [separate notices](THIRD_PARTY.md).

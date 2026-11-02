@@ -80,7 +80,7 @@ export function readingHTML(state: State, images: Record<string, string>): strin
     })
     .join(
       "",
-    )}</section><footer><a href="https://antonsoo.github.io/seked/${writeState(state)}#reader">Open this reading in Seked</a>. This document contains its source images and opens offline. Code and new illustrations: MIT, Anton Soloviev, 2026. Historical editions: public domain in the United States; see the repository’s third-party notices for provenance.</footer></body></html>`;
+    )}</section><footer><a href="https://antonsoo.github.io/seked/${writeState(state)}#reader">Open this reading in Seked</a>. This document contains its source images and opens offline. Code and new illustrations: PolyForm Noncommercial, Anthony Mercer, 2026. Historical editions: public domain in the United States; see the repository’s third-party notices for provenance.</footer></body></html>`;
 }
 export async function saveReading(state: State) {
   const snapshot = { ...state, lab: { ...state.lab } },

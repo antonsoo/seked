@@ -1,6 +1,6 @@
 # Sources and third-party notices
 
-Application code, new prose and calculated SVG illustrations are MIT-licensed.
+Application code, new prose and calculated SVG illustrations are licensed under PolyForm Noncommercial.
 The historical page images and fonts have the separate provenance below.
 No modern museum photograph is bundled.
 
@@ -13,7 +13,7 @@ This is a preliminary publication by Boris Turaev, preceding Struve's complete
 1930 edition and its conventional problem numbering. The original 1917 article
 is public domain; Turaev died in 1920. The app's short English quotations use
 the printed 1917 translation, explicitly credited. New explanation, diagrams
-and mathematical implementation are MIT-licensed.
+and mathematical implementation are licensed under PolyForm Noncommercial.
 
 | Retained file                      | Printed page | PDF page | Archive leaf |
 | ---------------------------------- | -----------: | -------: | -----------: |
@@ -113,7 +113,7 @@ pdftoppm -f 104 -l 104 -scale-to 2200 -jpeg peet.pdf peet
 ```
 
 The original 1923 and 1929 editions are public domain in the United States.
-Their historical images are not relicensed as MIT. Copyright status can differ
+Their historical images are not relicensed under PolyForm Noncommercial. Copyright status can differ
 by jurisdiction; the supplied notices make no worldwide public-domain claim.
 
 ## Additional reading and manuscript context

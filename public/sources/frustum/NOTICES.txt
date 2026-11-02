@@ -17,7 +17,7 @@ author's conjecture about derivation, not a fact established by the papyrus.
 The author’s English translation, numerical example, hieroglyphic transcription,
 photograph, comments and the bracketed editor's note have distinct roles.
 The interactive dissection and all generalized algebra are modern teaching
-material by Anton Soloviev (2026), licensed MIT. No dissection is attested by
+material by Anthony Mercer (2026), licensed under PolyForm Noncommercial. No dissection is attested by
 these pages. “Problem 14” is the later conventional numbering.
 
 Reproduction commands, input/output hashes and exact file identities:
