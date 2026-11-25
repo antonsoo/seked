@@ -3,12 +3,12 @@
 The [square-frustum workshop](https://antonsoo.github.io/seked/frustum.html#pieces)
 is published. The owner explicitly authorized pushing after the local review.
 
-| Boundary | Independently observed identity |
-| --- | --- |
-| Product source in the fresh Node 24.22 build | `010e84225d4534310af6e4313db49d495d996ba3` |
-| Source pushed to `main`, including original review artifacts | `465a0d5cf1dfb2e3655e754a0907633cd9577177` |
-| Pages branch deployment | `5525777940cd35c11f2391bfa29620f59ccde086` |
-| Complete build edition | `57cd3517598495a4d2a50a6f2b5c206141e5aa07fca3c2835436b7d4a0c6a36f` |
+| Boundary                                                     | Independently observed identity                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------------ |
+| Product source in the fresh Node 24.22 build                 | `010e84225d4534310af6e4313db49d495d996ba3`                         |
+| Source pushed to `main`, including original review artifacts | `465a0d5cf1dfb2e3655e754a0907633cd9577177`                         |
+| Pages branch deployment                                      | `5525777940cd35c11f2391bfa29620f59ccde086`                         |
+| Complete build edition                                       | `57cd3517598495a4d2a50a6f2b5c206141e5aa07fca3c2835436b7d4a0c6a36f` |
 
 The build command was `npm run build`; output is `dist/`, base `/seked/`.
 The existing `gh-pages` branch was fast-forwarded, overlaid with the reviewed
@@ -29,7 +29,6 @@ separate claim from those served bytes.
 `node scripts/frustum-hosted.mjs /tmp/seked-public` exercised the actual public
 origin, rather than a local preview. Chromium 153.0.8010.12 and Firefox 155.0
 completed the lesson at **1440 px and 375 px**:
-
 - Keyboard separation, exact custom volume 74, independent recorded example 56,
   and browser Back restoration.
 - All three displayed source JPEGs matched their original hashes.

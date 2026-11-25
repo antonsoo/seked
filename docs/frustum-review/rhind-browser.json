@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-25T20:17:09.255Z",
-  "base": "http://127.0.0.1:4406/seked/",
+  "checkedAt": "2026-11-25T20:35:12.408Z",
+  "base": "http://127.0.0.1:4371/seked/",
   "configurations": [
     {
       "browser": "chromium",
@@ -15,7 +15,7 @@
       "sourceImages": 13,
       "labCases": 16,
       "nativeClipboard": true,
-      "savedReadingSha256": "962b5e5fefcbb3cba4a3888d5d346eb114fcba447438add06788d1b0ad1b8cdd",
+      "savedReadingSha256": "b7f5a471b829f274b087475c616cec099b0904f510a990d70c8e7122eba29abf",
       "csv": "scope,problem,dimensions,base,height,halfBase,runPerCubit,palms,fingers,risePerRun\nreading,59,working,12,8,6,3/4,21/4,21,4/3\nexperiment_face,59,modern_experiment,12,8,6,3/4,21/4,21,4/3\n",
       "embeddedSourceHashes": [
         "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96",
@@ -57,7 +57,7 @@
       "sourceImages": 13,
       "labCases": 16,
       "nativeClipboard": true,
-      "savedReadingSha256": "962b5e5fefcbb3cba4a3888d5d346eb114fcba447438add06788d1b0ad1b8cdd",
+      "savedReadingSha256": "b7f5a471b829f274b087475c616cec099b0904f510a990d70c8e7122eba29abf",
       "csv": "scope,problem,dimensions,base,height,halfBase,runPerCubit,palms,fingers,risePerRun\nreading,59,working,12,8,6,3/4,21/4,21,4/3\nexperiment_face,59,modern_experiment,12,8,6,3/4,21/4,21,4/3\n",
       "embeddedSourceHashes": [
         "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96",
@@ -99,7 +99,7 @@
       "sourceImages": 13,
       "labCases": 16,
       "nativeClipboard": true,
-      "savedReadingSha256": "962b5e5fefcbb3cba4a3888d5d346eb114fcba447438add06788d1b0ad1b8cdd",
+      "savedReadingSha256": "b7f5a471b829f274b087475c616cec099b0904f510a990d70c8e7122eba29abf",
       "csv": "scope,problem,dimensions,base,height,halfBase,runPerCubit,palms,fingers,risePerRun\nreading,59,working,12,8,6,3/4,21/4,21,4/3\nexperiment_face,59,modern_experiment,12,8,6,3/4,21/4,21,4/3\n",
       "embeddedSourceHashes": [
         "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96",
@@ -141,7 +141,7 @@
       "sourceImages": 13,
       "labCases": 16,
       "nativeClipboard": true,
-      "savedReadingSha256": "962b5e5fefcbb3cba4a3888d5d346eb114fcba447438add06788d1b0ad1b8cdd",
+      "savedReadingSha256": "b7f5a471b829f274b087475c616cec099b0904f510a990d70c8e7122eba29abf",
       "csv": "scope,problem,dimensions,base,height,halfBase,runPerCubit,palms,fingers,risePerRun\nreading,59,working,12,8,6,3/4,21/4,21,4/3\nexperiment_face,59,modern_experiment,12,8,6,3/4,21/4,21,4/3\n",
       "embeddedSourceHashes": [
         "fec74be38aa3394470c6248efcb816fe52383e24b986a61d8f7963d95e921d96",

@@ -101,3 +101,17 @@ A fresh clone of the public repository with `npm ci` and `npm run build`
 reproduces the same complete artifact. CI workflow definitions are included;
 this review reports executed local and public browser checks, not a successful
 hosted Actions run.
+
+## 2026-11-25: retained reading regenerated
+
+The retained HTML and PDF readings were regenerated on 2026-11-25 by running
+`scripts/browser-review.mjs` against a build of commit `a3f4c63`, for the
+author-name and license change. Compared with the 2026-10-22 capture, the only
+change in the HTML and in the PDF text is the footer credit, which now reads
+"PolyForm Noncommercial, Anthony Mercer, 2026". The CSV is unchanged.
+[browser.json](browser.json), [hosted.json](hosted.json) and the frustum
+review's [original-room receipt](frustum-review/rhind-browser.json) are that
+day's reruns; all four configurations in each produced the same saved HTML,
+locally and on the public site. The file sizes and hashes in
+[build.json](build.json) `examples` are the new files; the rest of build.json
+still describes the 2026-10-21 build.

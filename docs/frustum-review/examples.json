@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-10-25T20:17:11.980Z",
+  "checkedAt": "2026-11-25T20:40:53.269Z",
   "query": "?a=4&b=2&h=6&spread=80&cut=50&turn=35&part=all&step=1&source=102",
-  "sourceCommit": "010e84225d4534310af6e4313db49d495d996ba3",
+  "sourceCommit": "a3f4c633f2c81d6b6a10e80518660ac85e4d886d",
   "files": [
     {
       "file": "seked-frustum-reading.html",
-      "bytes": 2727673,
-      "sha256": "2a4c35356b8e3bb57dd08a3dc489696a162a48503272aa2cf6c17855ffba3cf7"
+      "bytes": 2727717,
+      "sha256": "9d523c27888ca7491486d3c6df3c29226aadfac66c626751a4cb676aae6e8080"
     },
     {
       "file": "seked-frustum.svg",
@@ -25,10 +25,11 @@
     },
     {
       "file": "reading.pdf",
-      "bytes": 1585474,
-      "sha256": "01218951cc088041433bc8c612dcdee94ae33971cb671c86bda57c8864d34069"
+      "bytes": 1585509,
+      "sha256": "da8402e678efe2509d3aa5b92f57d7ca5685faf24b120a57eeac19f222b25dae"
     }
   ],
   "remoteRenderingRequests": [],
-  "pageErrors": []
+  "pageErrors": [],
+  "note": "Regenerated 2026-11-25 for the author-name and license change: same query, same production buttons, Chromium 1440 px. The SVG, CSV and JSON are byte-identical to the 2026-10-25 capture; the reading's two credit lines changed. The public site produced the same four files the same day."
 }

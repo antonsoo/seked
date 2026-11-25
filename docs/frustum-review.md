@@ -143,7 +143,7 @@ The original Rhind workflows were also rerun on the same production build:
 configuration; real saved files and offline use passed. Its independent browser
 oracle passed **204 cases / 2,448 checks**. The original delayed/substituted-source
 installer review also passed in both engines.
-[Original-room browser receipt](frustum-review/rhind-browser.json) ·
+[Original-room browser receipt](frustum-review/rhind-browser.json) (rerun 2026-11-25 on the current build for the author-name change; see [review.md](review.md)) ·
 [Actual coordinates](frustum-review/rhind-rendered.json) ·
 [Installer recovery receipt](frustum-review/rhind-offline.json).
 
@@ -154,6 +154,13 @@ a deliberate 4,2,6 demonstration: spread 80, turn 35 degrees, cut at 50%, all
 groups, operation 2 and printed p. 102. The cut has side 3 and area 9.
 They are distinct from the edge-case settings used in the broader browser run.
 [Native file identities and settings](frustum-review/examples.json).
+On 2026-11-25 the reading and its PDF were downloaded and printed again the
+same way from the current build, for the author-name and license change. The
+SVG, CSV and JSON came out byte-identical; the reading's two credit lines now
+name Anthony Mercer and the PolyForm Noncommercial license. The public site
+gave the same four files that day. The 2026-10-25 hosted receipt
+([hosted-browser.json](frustum-review/hosted-browser.json)) still records the
+earlier reading's hash.
 - [Complete reading, gzip-compressed HTML](../examples/frustum-reading.html.gz).
   Decompress it before opening. It contains its diagrams, all readings, original
   source bytes, fonts and full notices; it has no script or remote rendering asset.
@@ -172,7 +179,7 @@ Poppler recovered all three original JPEGs from the actual PDF with the same
 byte counts and SHA-256 hashes as the source manifest. Text extraction retained
 the six operations, the pyramid-theorem premise, source captions and notices.
 The PDF hash is
-`01218951cc088041433bc8c612dcdee94ae33971cb671c86bda57c8864d34069`.
+`da8402e678efe2509d3aa5b92f57d7ca5685faf24b120a57eeac19f222b25dae`.
 The print pages and standalone readings were visually inspected. Print settings
 can change pagination; no physical construction, museum measurement or ancient
 derivation is claimed. Firefox checked independent HTML use; the retained PDF
